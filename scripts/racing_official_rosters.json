@@ -1,0 +1,3049 @@
+{
+  "cuarta": [
+    {
+      "fullName": "Martínez, Lautaro Elías",
+      "surname": "Martínez",
+      "firstname": "Lautaro Elías",
+      "alt": "Lautaro Elías Martínez",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1465_martinez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1465_martinez/"
+    },
+    {
+      "fullName": "Pérez, Ángel Nicolás",
+      "surname": "Pérez",
+      "firstname": "Ángel Nicolás",
+      "alt": "Ángel Nicolás Pérez",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1866_perez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1866_perez/"
+    },
+    {
+      "fullName": "Wolfert, Lucas Leonel",
+      "surname": "Wolfert",
+      "firstname": "Lucas Leonel",
+      "alt": "Lucas Leonel Wolfert",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1685_wolfert.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1685_wolfert/"
+    },
+    {
+      "fullName": "Igon, Felipe",
+      "surname": "Igon",
+      "firstname": "Felipe",
+      "alt": "Felipe Igon",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1134_igon.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1134_igon/"
+    },
+    {
+      "fullName": "Cabellos Vázquez, Axel Jair",
+      "surname": "Cabellos Vázquez",
+      "firstname": "Axel Jair",
+      "alt": "Axel Jair Cabellos Vázquez",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1099_cabellos-vazquez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1099_cabellos-vazquez/"
+    },
+    {
+      "fullName": "Tello Larrory, Lautaro Manuel",
+      "surname": "Tello Larrory",
+      "firstname": "Lautaro Manuel",
+      "alt": "Lautaro Manuel Tello Larrory",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1253_tello-larrory.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1253_tello-larrory/"
+    },
+    {
+      "fullName": "Lazo, Máximo",
+      "surname": "Lazo",
+      "firstname": "Máximo",
+      "alt": "Máximo Lazo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1669_laso.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1669_laso/"
+    },
+    {
+      "fullName": "Carabajal, Demian Uriel",
+      "surname": "Carabajal",
+      "firstname": "Demian Uriel",
+      "alt": "Demian Uriel Carabajal",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1868_carabajal.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1868_carabajal/"
+    },
+    {
+      "fullName": "Torres, Emanuel de Jesús",
+      "surname": "Torres",
+      "firstname": "Emanuel de Jesús",
+      "alt": "Emanuel de Jesús Torres",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1129_torres.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1129_torres/"
+    },
+    {
+      "fullName": "Merino, Jhoan Ernesto",
+      "surname": "Merino",
+      "firstname": "Jhoan Ernesto",
+      "alt": "Jhoan Ernesto Merino",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1114_merino.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1114_merino/"
+    },
+    {
+      "fullName": "Costa Storniolo, Santino",
+      "surname": "Costa Storniolo",
+      "firstname": "Santino",
+      "alt": "Santino Costa Storniolo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1971_costa-storniolo.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1971_costa-storniolo/"
+    },
+    {
+      "fullName": "Zakalic, Alvaro",
+      "surname": "Zakalic",
+      "firstname": "Alvaro",
+      "alt": "Alvaro Zakalic",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1970_zakalic.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1970_zakalic/"
+    },
+    {
+      "fullName": "Meza, Samir Adriel",
+      "surname": "Meza",
+      "firstname": "Samir Adriel",
+      "alt": "Samir Adriel Meza",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1115_meza.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1115_meza/"
+    },
+    {
+      "fullName": "Escudero, Gonzalo",
+      "surname": "Escudero",
+      "firstname": "Gonzalo",
+      "alt": "Gonzalo Escudero",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1148_escudero.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1148_escudero/"
+    },
+    {
+      "fullName": "Agüero, Luciano Valentín",
+      "surname": "Agüero",
+      "firstname": "Luciano Valentín",
+      "alt": "Luciano Valentín Agüero",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1139_aguero.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1139_aguero/"
+    },
+    {
+      "fullName": "Naranjo, Luciano Agustín",
+      "surname": "Naranjo",
+      "firstname": "Luciano Agustín",
+      "alt": "Luciano Agustín Naranjo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1454_naranjo.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1454_naranjo/"
+    },
+    {
+      "fullName": "Godoy, Mariano",
+      "surname": "Godoy",
+      "firstname": "Mariano",
+      "alt": "Mariano Godoy",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1969_godoy.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1969_godoy/"
+    },
+    {
+      "fullName": "Aguirre, Santino Benjamín",
+      "surname": "Aguirre",
+      "firstname": "Santino Benjamín",
+      "alt": "Santino Benjamín Aguirre",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1141_aguirre.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1141_aguirre/"
+    },
+    {
+      "fullName": "Solarte, Leandro",
+      "surname": "Solarte",
+      "firstname": "Leandro",
+      "alt": "Leandro Solarte",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1683_solarte.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1683_solarte/"
+    },
+    {
+      "fullName": "González, Benjamín",
+      "surname": "González",
+      "firstname": "Benjamín",
+      "alt": "Benjamín González",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1153_gonzalez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1153_gonzalez/"
+    },
+    {
+      "fullName": "Encina, Elian Daniel",
+      "surname": "Encina",
+      "firstname": "Elian Daniel",
+      "alt": "Elian Daniel Encina",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1973_encina.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1973_encina/"
+    },
+    {
+      "fullName": "Schaare, Felipe Valentín",
+      "surname": "Schaare",
+      "firstname": "Felipe Valentín",
+      "alt": "Felipe Valentín Schaare",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1127_schaare.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1127_schaare/"
+    },
+    {
+      "fullName": "Firmapaz, Lautaro",
+      "surname": "Firmapaz",
+      "firstname": "Lautaro",
+      "alt": "Lautaro Firmapaz",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1677_firmapaz.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1677_firmapaz/"
+    },
+    {
+      "fullName": "Trujillo Pineda, Juan Camilo",
+      "surname": "Trujillo Pineda",
+      "firstname": "Juan Camilo",
+      "alt": "Juan Camilo Trujillo Pineda",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1975_trujillo-pineda.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1975_trujillo-pineda/"
+    },
+    {
+      "fullName": "Gagliardi Piris, Santiago",
+      "surname": "Gagliardi Piris",
+      "firstname": "Santiago",
+      "alt": "Santiago Gagliardi Piris",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1968_gagliardi-piris.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1968_gagliardi-piris/"
+    },
+    {
+      "fullName": "Yegros, Alexis Ariel",
+      "surname": "Yegros",
+      "firstname": "Alexis Ariel",
+      "alt": "Alexis Ariel Yegros",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1170_yegros.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1170_yegros/"
+    },
+    {
+      "fullName": "Leiva Aguero, Gonzalo Santiago",
+      "surname": "Leiva Aguero",
+      "firstname": "Gonzalo Santiago",
+      "alt": "Gonzalo Santiago Leiva Aguero",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1464_leiva-aguero.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1464_leiva-aguero/"
+    },
+    {
+      "fullName": "Castreje Rodríguez, Bautista",
+      "surname": "Castreje Rodríguez",
+      "firstname": "Bautista",
+      "alt": "Bautista Castreje Rodríguez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1146_castreje-rodriguez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1146_castreje-rodriguez/"
+    },
+    {
+      "fullName": "Macias, Fausto",
+      "surname": "Macias",
+      "firstname": "Fausto",
+      "alt": "Fausto  Macias",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1459_macias.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1459_macias/"
+    },
+    {
+      "fullName": "Deraco, Dante",
+      "surname": "Deraco",
+      "firstname": "Dante",
+      "alt": "Dante Deraco",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1784_deraco.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1784_deraco/"
+    },
+    {
+      "fullName": "Rivas Saleski, Lautaro Nicanor",
+      "surname": "Rivas Saleski",
+      "firstname": "Lautaro Nicanor",
+      "alt": "Lautaro Nicanor Rivas Saleski",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1686_rivas.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1686_rivas/"
+    },
+    {
+      "fullName": "Ranalli, Santiago",
+      "surname": "Ranalli",
+      "firstname": "Santiago",
+      "alt": "Santiago Ranalli",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1466_ranalli.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1466_ranalli/"
+    },
+    {
+      "fullName": "Contreras, Mateo Gabriel",
+      "surname": "Contreras",
+      "firstname": "Mateo Gabriel",
+      "alt": "Mateo Gabriel Contreras",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1254_contreras.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1254_contreras/"
+    },
+    {
+      "fullName": "Segura, Elias",
+      "surname": "Segura",
+      "firstname": "Elias",
+      "alt": "Elias Segura",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1681_segura.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1681_segura/"
+    },
+    {
+      "fullName": "Fraga, Francisco",
+      "surname": "Fraga",
+      "firstname": "Francisco",
+      "alt": "Francisco Fraga",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1107_fraga.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1107_fraga/"
+    },
+    {
+      "fullName": "Taborda, Thiago Uriel",
+      "surname": "Taborda",
+      "firstname": "Thiago Uriel",
+      "alt": "Thiago Uriel  Taborda",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1128_taborda.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1128_taborda/"
+    },
+    {
+      "fullName": "Milito Bonetto, Leandro Ezequiel",
+      "surname": "Milito Bonetto",
+      "firstname": "Leandro Ezequiel",
+      "alt": "Leandro Ezequiel Milito Bonetto",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1160_milito-bonetto.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1160_milito-bonetto/"
+    },
+    {
+      "fullName": "Velázquez Fernández, Joan",
+      "surname": "Velázquez Fernández",
+      "firstname": "Joan",
+      "alt": "Joan Velázquez Fernández",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1455_velazquez-fernandez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1455_velazquez-fernandez/"
+    },
+    {
+      "fullName": "Orrabalis, Axel Daniel",
+      "surname": "Orrabalis",
+      "firstname": "Axel Daniel",
+      "alt": "Axel Daniel Orrabalis",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1974_orrabalis.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1974_orrabalis/"
+    },
+    {
+      "fullName": "Alvez, Luis Adriano",
+      "surname": "Alvez",
+      "firstname": "Luis Adriano",
+      "alt": "Luis Adriano Alvez",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1143_alvez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1143_alvez/"
+    },
+    {
+      "fullName": "Ortiz, Lorenzo Xavier",
+      "surname": "Ortiz",
+      "firstname": "Lorenzo Xavier",
+      "alt": "Lorenzo Xavier Ortiz",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1453_ortiz.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1453_ortiz/"
+    },
+    {
+      "fullName": "Campo Deusa, Driden Alberto",
+      "surname": "Campo Deusa",
+      "firstname": "Driden Alberto",
+      "alt": "Driden Alberto Campo Deusa",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1972_campo-deusa.webp?v=2.2",
+      "link": "/futbol/cuarta-division/jugador/1972_campo-deusa/"
+    },
+    {
+      "fullName": "Gomis, Pablo",
+      "surname": "Gomis",
+      "firstname": "Pablo",
+      "alt": "Pablo Gomis",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/201_gomis.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/201_gomis/"
+    },
+    {
+      "fullName": "Clavero, Santiago",
+      "surname": "Clavero",
+      "firstname": "Santiago",
+      "alt": "Santiago  Clavero",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/433_clavero.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/433_clavero/"
+    },
+    {
+      "fullName": "Cruz, Alejandro",
+      "surname": "Cruz",
+      "firstname": "Alejandro",
+      "alt": "Alejandro  Cruz",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/345_cruz.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/345_cruz/"
+    },
+    {
+      "fullName": "Peñaloza, Rodrigo",
+      "surname": "Peñaloza",
+      "firstname": "Rodrigo",
+      "alt": "Rodrigo Peñaloza",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/527_penaloza.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/527_penaloza/"
+    },
+    {
+      "fullName": "Álvarez, Juan Domingo",
+      "surname": "Álvarez",
+      "firstname": "Juan Domingo",
+      "alt": "Juan Domingo Álvarez",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/328_alvarez.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/328_alvarez/"
+    },
+    {
+      "fullName": "Marin, Candela",
+      "surname": "Marin",
+      "firstname": "Candela",
+      "alt": "Candela Marin",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/514_marin.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/514_marin/"
+    },
+    {
+      "fullName": "Ametller, Agustín",
+      "surname": "Ametller",
+      "firstname": "Agustín",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/543_ametller/"
+    },
+    {
+      "fullName": "Di Lisio, Santiago",
+      "surname": "Di Lisio",
+      "firstname": "Santiago",
+      "alt": "Santiago Di Lisio",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/505_di-lisio.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/505_di-lisio/"
+    },
+    {
+      "fullName": "Toro, Daniel",
+      "surname": "Toro",
+      "firstname": "Daniel",
+      "alt": "Daniel Toro",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/508_toro.webp?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/508_toro/"
+    },
+    {
+      "fullName": "Godoy, Juan Manuel",
+      "surname": "Godoy",
+      "firstname": "Juan Manuel",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/cuarta-division/cuerpo-tecnico/530_godoy/"
+    }
+  ],
+  "quinta": [
+    {
+      "fullName": "Pereira Bandera, Luis Guillermo",
+      "surname": "Pereira Bandera",
+      "firstname": "Luis Guillermo",
+      "alt": "Arquero de Racing Club",
+      "posicion": "Arquero",
+      "img": "",
+      "link": "/futbol/quinta-division/jugador/1984_pereira-bandera/"
+    },
+    {
+      "fullName": "Romero, Benicio",
+      "surname": "Romero",
+      "firstname": "Benicio",
+      "alt": "Benicio Romero",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1308_romero.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1308_romero/"
+    },
+    {
+      "fullName": "Aguilera, Santino Matías",
+      "surname": "Aguilera",
+      "firstname": "Santino Matías",
+      "alt": "Santino Matías Aguilera",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1305_aguilera.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1305_aguilera/"
+    },
+    {
+      "fullName": "Benavidez, Ramiro Nicolás",
+      "surname": "Benavidez",
+      "firstname": "Ramiro Nicolás",
+      "alt": "Ramiro Nicolás Benavidez",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1987_benavidez.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1987_benavidez/"
+    },
+    {
+      "fullName": "Celasco, Agustín",
+      "surname": "Celasco",
+      "firstname": "Agustín",
+      "alt": "Agustín Celasco",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1863_celasco.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1863_celasco/"
+    },
+    {
+      "fullName": "Mareco, Agustín",
+      "surname": "Mareco",
+      "firstname": "Agustín",
+      "alt": "Agustín  Mareco",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2115_mareco.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/2115_mareco/"
+    },
+    {
+      "fullName": "Marelican Bottaro, Roberto Gabriel",
+      "surname": "Marelican Bottaro",
+      "firstname": "Roberto Gabriel",
+      "alt": "Roberto Gabriel Marelican Bottaro",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1977_marelican-bottaro.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1977_marelican-bottaro/"
+    },
+    {
+      "fullName": "Melluso, Mateo Bautista",
+      "surname": "Melluso",
+      "firstname": "Mateo Bautista",
+      "alt": "Mateo Bautista Melluso",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1287_melluso.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1287_melluso/"
+    },
+    {
+      "fullName": "Mondolo, Leonel Benjamín",
+      "surname": "Mondolo",
+      "firstname": "Leonel Benjamín",
+      "alt": "Leonel Benjamín Mondolo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1978_mondolo.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1978_mondolo/"
+    },
+    {
+      "fullName": "Cabrera, Joaquín Enrique",
+      "surname": "Cabrera",
+      "firstname": "Joaquín Enrique",
+      "alt": "Joaquín Enrique Cabrera",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1985_cabrera.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1985_cabrera/"
+    },
+    {
+      "fullName": "Quiroz, Juan Esteban",
+      "surname": "Quiroz",
+      "firstname": "Juan Esteban",
+      "alt": "Juan Esteban Quiroz",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1472_quiroz.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1472_quiroz/"
+    },
+    {
+      "fullName": "Dobal, Joaquín",
+      "surname": "Dobal",
+      "firstname": "Joaquín",
+      "alt": "Joaquín Dobal",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1278_dobal.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1278_dobal/"
+    },
+    {
+      "fullName": "Falaq, Santiago Jack",
+      "surname": "Falaq",
+      "firstname": "Santiago Jack",
+      "alt": "Santiago Jack Falaq",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1976_falaq.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1976_falaq/"
+    },
+    {
+      "fullName": "Arias, Jeremías",
+      "surname": "Arias",
+      "firstname": "Jeremías",
+      "alt": "Jeremías Arias",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1274_arias.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1274_arias/"
+    },
+    {
+      "fullName": "Villalba Obregón, Diego Lautaro",
+      "surname": "Villalba Obregón",
+      "firstname": "Diego Lautaro",
+      "alt": "Diego Lautaro Villalba Obregón",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1298_villalba-obregon.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1298_villalba-obregon/"
+    },
+    {
+      "fullName": "Oddo, Julián",
+      "surname": "Oddo",
+      "firstname": "Julián",
+      "alt": "Julián Oddo",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1986_oddo.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1986_oddo/"
+    },
+    {
+      "fullName": "Ferrer Correa, Dylan Nathaniel",
+      "surname": "Ferrer Correa",
+      "firstname": "Dylan Nathaniel",
+      "alt": "Dylan Nathaniel Ferrer Correa",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1980_ferrer-correa.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1980_ferrer-correa/"
+    },
+    {
+      "fullName": "Pérez, Bautista Ezequiel",
+      "surname": "Pérez",
+      "firstname": "Bautista Ezequiel",
+      "alt": "Bautista Ezequiel Pérez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1290_perez.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1290_perez/"
+    },
+    {
+      "fullName": "García Pérez, Felipe Agustín",
+      "surname": "García Pérez",
+      "firstname": "Felipe Agustín",
+      "alt": "Felipe Agustín García Pérez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1979_garcia-perez.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1979_garcia-perez/"
+    },
+    {
+      "fullName": "Pérez, Ezequiel Damián",
+      "surname": "Pérez",
+      "firstname": "Ezequiel Damián",
+      "alt": "Ezequiel Damián Pérez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1291_perez.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1291_perez/"
+    },
+    {
+      "fullName": "Marocco, Máximo",
+      "surname": "Marocco",
+      "firstname": "Máximo",
+      "alt": "Máximo Marocco",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2098_maximo.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/2098_maximo/"
+    },
+    {
+      "fullName": "Rojas, Yair Alberto",
+      "surname": "Rojas",
+      "firstname": "Yair Alberto",
+      "alt": "Yair Alberto Rojas",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1860_rojas.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1860_rojas/"
+    },
+    {
+      "fullName": "Martínez, Mateo Ezequiel",
+      "surname": "Martínez",
+      "firstname": "Mateo Ezequiel",
+      "alt": "Mateo Ezequiel Martínez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1300_martinez.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1300_martinez/"
+    },
+    {
+      "fullName": "Ansaldo, Dionel",
+      "surname": "Ansaldo",
+      "firstname": "Dionel",
+      "alt": "Dionel Ansaldo",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1273_ansaldo.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1273_ansaldo/"
+    },
+    {
+      "fullName": "Tello, Alejandro Joaquín",
+      "surname": "Tello",
+      "firstname": "Alejandro Joaquín",
+      "alt": "Alejandro Joaquín Tello",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1296_tello.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1296_tello/"
+    },
+    {
+      "fullName": "Muñoz, Nathaniel Benjamin",
+      "surname": "Muñoz",
+      "firstname": "Nathaniel Benjamin",
+      "alt": "Nathaniel Benjamin Muñoz",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1862_munoz.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1862_munoz/"
+    },
+    {
+      "fullName": "Mareco, Gregorio",
+      "surname": "Mareco",
+      "firstname": "Gregorio",
+      "alt": "Gregorio Mareco",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1982_marec.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1982_marec/"
+    },
+    {
+      "fullName": "Ohaco, Matías",
+      "surname": "Ohaco",
+      "firstname": "Matías",
+      "alt": "Matías Ohaco",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1983_ohaco.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1983_ohaco/"
+    },
+    {
+      "fullName": "Carmona, Mateo Valentín",
+      "surname": "Carmona",
+      "firstname": "Mateo Valentín",
+      "alt": "Mateo Valentín Carmona",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1275_carmona.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1275_carmona/"
+    },
+    {
+      "fullName": "Walter, Cristian Waldemar",
+      "surname": "Walter",
+      "firstname": "Cristian Waldemar",
+      "alt": "Cristian Waldemar Walter",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1702_walter.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1702_walter/"
+    },
+    {
+      "fullName": "Chatruc, Benicio",
+      "surname": "Chatruc",
+      "firstname": "Benicio",
+      "alt": "Benicio Chatruc",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1981_chatruc.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1981_chatruc/"
+    },
+    {
+      "fullName": "González, Facundo",
+      "surname": "González",
+      "firstname": "Facundo",
+      "alt": "Facundo González",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1696_gonzalez.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1696_gonzalez/"
+    },
+    {
+      "fullName": "Loto, Ramiro Juan",
+      "surname": "Loto",
+      "firstname": "Ramiro Juan",
+      "alt": "Ramiro Juan Loto",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1285_loto.webp?v=2.2",
+      "link": "/futbol/quinta-division/jugador/1285_loto/"
+    },
+    {
+      "fullName": "Berrutti, Fabián",
+      "surname": "Berrutti",
+      "firstname": "Fabián",
+      "alt": "Fabián Berrutti",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/434_berrutti.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/434_berrutti/"
+    },
+    {
+      "fullName": "Colaizzo, Pablo",
+      "surname": "Colaizzo",
+      "firstname": "Pablo",
+      "alt": "Pablo Colaizzo",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/435_colaisio.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/435_colaisio/"
+    },
+    {
+      "fullName": "Sorbo, Mariano",
+      "surname": "Sorbo",
+      "firstname": "Mariano",
+      "alt": "Mariano Sorbo",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/203_sorbo.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/203_sorbo/"
+    },
+    {
+      "fullName": "Cruz, Alejandro",
+      "surname": "Cruz",
+      "firstname": "Alejandro",
+      "alt": "Alejandro Cruz",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/347_cruz.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/347_cruz/"
+    },
+    {
+      "fullName": "Álvarez, Juan Domingo",
+      "surname": "Álvarez",
+      "firstname": "Juan Domingo",
+      "alt": "Juan Domingo Álvarez",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/327_alvarez.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/327_alvarez/"
+    },
+    {
+      "fullName": "Peñaloza, Rodrigo",
+      "surname": "Peñaloza",
+      "firstname": "Rodrigo",
+      "alt": "Rodrigo Peñaloza",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/445_penaloza.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/445_penaloza/"
+    },
+    {
+      "fullName": "Marin, Candela",
+      "surname": "Marin",
+      "firstname": "Candela",
+      "alt": "Candela Marin",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/515_marin.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/515_marin/"
+    },
+    {
+      "fullName": "Ametller, Agustín",
+      "surname": "Ametller",
+      "firstname": "Agustín",
+      "alt": "Agustín Ametller",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/544_ametller.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/544_ametller/"
+    },
+    {
+      "fullName": "Di Lisio, Santiago",
+      "surname": "Di Lisio",
+      "firstname": "Santiago",
+      "alt": "Santiago Di Lisio",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/506_di-lisio.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/506_di-lisio/"
+    },
+    {
+      "fullName": "Toro, Daniel",
+      "surname": "Toro",
+      "firstname": "Daniel",
+      "alt": "Daniel Toro",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/509_toro.webp?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/509_toro/"
+    },
+    {
+      "fullName": "Godoy, Juan Manuel",
+      "surname": "Godoy",
+      "firstname": "Juan Manuel",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/quinta-division/cuerpo-tecnico/531_godoy/"
+    }
+  ],
+  "sexta": [
+    {
+      "fullName": "Bado, Julián Andrés",
+      "surname": "Bado",
+      "firstname": "Julián Andrés",
+      "alt": "Julián Andrés Bado",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1988_bado.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1988_bado/"
+    },
+    {
+      "fullName": "Enrique, Joaquín Fabián",
+      "surname": "Enrique",
+      "firstname": "Joaquín Fabián",
+      "alt": "Joaquín Fabián Enrique",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1791_enrique.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1791_enrique/"
+    },
+    {
+      "fullName": "Rodríguez Luna, Elian Andrés",
+      "surname": "Rodríguez Luna",
+      "firstname": "Elian Andrés",
+      "alt": "Elian Andrés Rodríguez Luna",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1710_rodriguez-luna.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1710_rodriguez-luna/"
+    },
+    {
+      "fullName": "López, Benjamín",
+      "surname": "López",
+      "firstname": "Benjamín",
+      "alt": "Benjamín López",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2101_lopez.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/2101_lopez/"
+    },
+    {
+      "fullName": "Balbuena, Alex Sebastián",
+      "surname": "Balbuena",
+      "firstname": "Alex Sebastián",
+      "alt": "Alex Sebastián Balbuena",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1404_balbuena.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1404_balbuena/"
+    },
+    {
+      "fullName": "Rodríguez, Santino Ezequiel",
+      "surname": "Rodríguez",
+      "firstname": "Santino Ezequiel",
+      "alt": "Santino Ezequiel  Rodríguez",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1711_rodriguez.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1711_rodriguez/"
+    },
+    {
+      "fullName": "Barcena, Santiago",
+      "surname": "Barcena",
+      "firstname": "Santiago",
+      "alt": "Santiago Barcena",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1787_barcena.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1787_barcena/"
+    },
+    {
+      "fullName": "Zotelo, Ramiro Ignacio",
+      "surname": "Zotelo",
+      "firstname": "Ramiro Ignacio",
+      "alt": "Ramiro Ignacio Zotelo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1427_zotelo.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1427_zotelo/"
+    },
+    {
+      "fullName": "Cáceres, Brandon Joel",
+      "surname": "Cáceres",
+      "firstname": "Brandon Joel",
+      "alt": "Brandon Joel Cáceres",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1989_caceres.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1989_caceres/"
+    },
+    {
+      "fullName": "Cayuqueo, Thiago Agustín",
+      "surname": "Cayuqueo",
+      "firstname": "Thiago Agustín",
+      "alt": "Thiago Agustín Cayuqueo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1990_cayuqueo.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1990_cayuqueo/"
+    },
+    {
+      "fullName": "Gómez, Thiago",
+      "surname": "Gómez",
+      "firstname": "Thiago",
+      "alt": "Thiago Gómez",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1414_gomez.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1414_gomez/"
+    },
+    {
+      "fullName": "Ahumada Lamensa, Valentino Augusto",
+      "surname": "Ahumada Lamensa",
+      "firstname": "Valentino Augusto",
+      "alt": "Valentino Augusto Ahumada Lamensa",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1399_ahumada-lamensa.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1399_ahumada-lamensa/"
+    },
+    {
+      "fullName": "Santoro, Martín Ezequiel",
+      "surname": "Santoro",
+      "firstname": "Martín Ezequiel",
+      "alt": "Martín Ezequiel Santoro",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1421_santoro.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1421_santoro/"
+    },
+    {
+      "fullName": "Lima, Valentino",
+      "surname": "Lima",
+      "firstname": "Valentino",
+      "alt": "Valentino Lima",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1792_lima.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1792_lima/"
+    },
+    {
+      "fullName": "Almaraz, Sebastián",
+      "surname": "Almaraz",
+      "firstname": "Sebastián",
+      "alt": "Sebastián Almaraz",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2100_almaraz.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/2100_almaraz/"
+    },
+    {
+      "fullName": "Sinnott, Tomás",
+      "surname": "Sinnott",
+      "firstname": "Tomás",
+      "alt": "Tomás Sinnott",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1712_sinnott.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1712_sinnott/"
+    },
+    {
+      "fullName": "López, Santiago Benjamín",
+      "surname": "López",
+      "firstname": "Santiago Benjamín",
+      "alt": "Santiago Benjamín López",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1799_lopez.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1799_lopez/"
+    },
+    {
+      "fullName": "Álvarez, Lucas Lionel",
+      "surname": "Álvarez",
+      "firstname": "Lucas Lionel",
+      "alt": "Lucas Lionel Álvarez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1430_alvarez.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1430_alvarez/"
+    },
+    {
+      "fullName": "Torterola, Luka Lionel",
+      "surname": "Torterola",
+      "firstname": "Luka Lionel",
+      "alt": "Luka Lionel Torterola",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1424_torterola.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1424_torterola/"
+    },
+    {
+      "fullName": "Maimo, Lazaro",
+      "surname": "Maimo",
+      "firstname": "Lazaro",
+      "alt": "Lazaro Maimo",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1798_maimo.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1798_maimo/"
+    },
+    {
+      "fullName": "Fischer, Benjamín",
+      "surname": "Fischer",
+      "firstname": "Benjamín",
+      "alt": "Benjamín Fischer",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1435_fischer.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1435_fischer/"
+    },
+    {
+      "fullName": "Tulipan Enriquez, Agustín",
+      "surname": "Tulipan Enriquez",
+      "firstname": "Agustín",
+      "alt": "Agustín Tulipan Enriquez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1714_tulipan-enriquez.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1714_tulipan-enriquez/"
+    },
+    {
+      "fullName": "Acevedo, Lisandro Gabriel",
+      "surname": "Acevedo",
+      "firstname": "Lisandro Gabriel",
+      "alt": "Lisandro Gabriel Acevedo",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1785_acevedo.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1785_acevedo/"
+    },
+    {
+      "fullName": "Molina, Manuel Oscar",
+      "surname": "Molina",
+      "firstname": "Manuel Oscar",
+      "alt": "Jugador de Racing Club",
+      "posicion": "Mediocampista",
+      "img": "",
+      "link": "/futbol/sexta-division/jugador/1993_molina/"
+    },
+    {
+      "fullName": "Florentín, Erik Lucas",
+      "surname": "Florentín",
+      "firstname": "Erik Lucas",
+      "alt": "Erik Lucas Florentín",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1411_florentin.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1411_florentin/"
+    },
+    {
+      "fullName": "Aguirre, Santiago",
+      "surname": "Aguirre",
+      "firstname": "Santiago",
+      "alt": "Santiago Aguirre",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1786_aguirre.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1786_aguirre/"
+    },
+    {
+      "fullName": "Rodríguez Dotzel, Luca Santino",
+      "surname": "Rodríguez Dotzel",
+      "firstname": "Luca Santino",
+      "alt": "Luca Santino Rodríguez Dotzel",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1419_rodriguez-dotzel.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1419_rodriguez-dotzel/"
+    },
+    {
+      "fullName": "Ibarras, Enzo Román",
+      "surname": "Ibarras",
+      "firstname": "Enzo Román",
+      "alt": "Enzo Román Ibarras",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1432_ibarras.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1432_ibarras/"
+    },
+    {
+      "fullName": "Avalos Rios, Enzo",
+      "surname": "Avalos Rios",
+      "firstname": "Enzo",
+      "alt": "Enzo Avalos Rios",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2116_avalos-rios.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/2116_avalos-rios/"
+    },
+    {
+      "fullName": "Ortiz Heredia, Jerónimo Martín",
+      "surname": "Ortiz Heredia",
+      "firstname": "Jerónimo Martín",
+      "alt": "Jerónimo Martín Ortiz Heredia",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1717_ortiz.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1717_ortiz/"
+    },
+    {
+      "fullName": "Borowik Mattus, Benjamín Aron",
+      "surname": "Borowik Mattus",
+      "firstname": "Benjamín Aron",
+      "alt": "Benjamín Aron Borowik Mattus",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1406_borowik-mattus.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1406_borowik-mattus/"
+    },
+    {
+      "fullName": "Burriel, Thiago Manuel",
+      "surname": "Burriel",
+      "firstname": "Thiago Manuel",
+      "alt": "Thiago Manuel Burriel",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1788_burriel.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1788_burriel/"
+    },
+    {
+      "fullName": "Cabellos Galeano, Uriel Nahuel",
+      "surname": "Cabellos Galeano",
+      "firstname": "Uriel Nahuel",
+      "alt": "Uriel Nahuel Cabellos Galeano",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1801_cabellos.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1801_cabellos/"
+    },
+    {
+      "fullName": "Cerullo, Franco",
+      "surname": "Cerullo",
+      "firstname": "Franco",
+      "alt": "Franco Cerullo",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1433_cerullo.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1433_cerullo/"
+    },
+    {
+      "fullName": "Ardiles, Cristian Agustín",
+      "surname": "Ardiles",
+      "firstname": "Cristian Agustín",
+      "alt": "Cristian Agustín Ardiles",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1992_ardiles.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1992_ardiles/"
+    },
+    {
+      "fullName": "Medina, Joaquín Andrés",
+      "surname": "Medina",
+      "firstname": "Joaquín Andrés",
+      "alt": "Joaquín Andrés Medina",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1793_medina.webp?v=2.2",
+      "link": "/futbol/sexta-division/jugador/1793_medina/"
+    },
+    {
+      "fullName": "Martínez, Matías",
+      "surname": "Martínez",
+      "firstname": "Matías",
+      "alt": "Matías Martínez",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/404_martinez.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/404_martinez/"
+    },
+    {
+      "fullName": "Shaffer, José",
+      "surname": "Shaffer",
+      "firstname": "José",
+      "alt": "José Shaffer",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/304_shaffer.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/304_shaffer/"
+    },
+    {
+      "fullName": "Corbo, Juan Ignacio",
+      "surname": "Corbo",
+      "firstname": "Juan Ignacio",
+      "alt": "Juan Ignacio Corbo",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/385_corbo.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/385_corbo/"
+    },
+    {
+      "fullName": "Cruz, Alejandro",
+      "surname": "Cruz",
+      "firstname": "Alejandro",
+      "alt": "Alejandro Cruz",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/349_cruz.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/349_cruz/"
+    },
+    {
+      "fullName": "Peñaloza, Rodrigo",
+      "surname": "Peñaloza",
+      "firstname": "Rodrigo",
+      "alt": "Rodrigo Peñaloza",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/529_penaloza.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/529_penaloza/"
+    },
+    {
+      "fullName": "Álvarez, Juan Domingo",
+      "surname": "Álvarez",
+      "firstname": "Juan Domingo",
+      "alt": "Juan Domingo Álvarez",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/326_alvarez.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/326_alvarez/"
+    },
+    {
+      "fullName": "Marin, Candela",
+      "surname": "Marin",
+      "firstname": "Candela",
+      "alt": "Candela  Marin",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/516_marin.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/516_marin/"
+    },
+    {
+      "fullName": "Di Lisio, Santiago",
+      "surname": "Di Lisio",
+      "firstname": "Santiago",
+      "alt": "Santiago Di Lisio",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/507_di-lisio.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/507_di-lisio/"
+    },
+    {
+      "fullName": "Toro, Daniel",
+      "surname": "Toro",
+      "firstname": "Daniel",
+      "alt": "Daniel Toro",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/510_toro.webp?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/510_toro/"
+    },
+    {
+      "fullName": "Godoy, Juan Manuel",
+      "surname": "Godoy",
+      "firstname": "Juan Manuel",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/sexta-division/cuerpo-tecnico/532_godoy/"
+    }
+  ],
+  "septima": [
+    {
+      "fullName": "Pereyra, Dylan Javier",
+      "surname": "Pereyra",
+      "firstname": "Dylan Javier",
+      "alt": "Dylan Javier Pereyra",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2000_pereyra.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/2000_pereyra/"
+    },
+    {
+      "fullName": "Ruiz Behr, Salvador",
+      "surname": "Ruiz Behr",
+      "firstname": "Salvador",
+      "alt": "Salvador Ruiz Behr",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1994_ruiz-behr.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1994_ruiz-behr/"
+    },
+    {
+      "fullName": "Davis Martínez, Tomás",
+      "surname": "Davis Martínez",
+      "firstname": "Tomás",
+      "alt": "Tomás  Davis Martínez",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1995_davis-martinez.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1995_davis-martinez/"
+    },
+    {
+      "fullName": "López Fernández, Abi Owen",
+      "surname": "López Fernández",
+      "firstname": "Abi Owen",
+      "alt": "Abi Owen López Fernández",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1817_lopez-fernandez.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1817_lopez-fernandez/"
+    },
+    {
+      "fullName": "Segovia, Eliseo Daniel",
+      "surname": "Segovia",
+      "firstname": "Eliseo Daniel",
+      "alt": "Eliseo Daniel Segovia",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1745_segovia.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1745_segovia/"
+    },
+    {
+      "fullName": "De Brito, Thiago Bastian",
+      "surname": "De Brito",
+      "firstname": "Thiago Bastian",
+      "alt": "Thiago Bastian De Brito",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1729_de-brito.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1729_de-brito/"
+    },
+    {
+      "fullName": "Soto, Demián Santiago",
+      "surname": "Soto",
+      "firstname": "Demián Santiago",
+      "alt": "Demián Santiago Soto",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1811_soto.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1811_soto/"
+    },
+    {
+      "fullName": "Diaz Lencina, Valentino Emanuel",
+      "surname": "Diaz Lencina",
+      "firstname": "Valentino Emanuel",
+      "alt": "Valentino Emanuel Diaz Lencina",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1813_diaz.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1813_diaz/"
+    },
+    {
+      "fullName": "Baez, Santino",
+      "surname": "Baez",
+      "firstname": "Santino",
+      "alt": "Santino Baez",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1723_baez.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1723_baez/"
+    },
+    {
+      "fullName": "López Astrada, Tomás Joaquín",
+      "surname": "López Astrada",
+      "firstname": "Tomás Joaquín",
+      "alt": "Tomás Joaquín López Astrada",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1737_lopez-astrada.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1737_lopez-astrada/"
+    },
+    {
+      "fullName": "Bravo, Nehemías Benjamín",
+      "surname": "Bravo",
+      "firstname": "Nehemías Benjamín",
+      "alt": "Nehemías Benjamín Bravo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1803_bravo.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1803_bravo/"
+    },
+    {
+      "fullName": "Montenegro, Donato Franco",
+      "surname": "Montenegro",
+      "firstname": "Donato Franco",
+      "alt": "Donato Franco Montenegro",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1738_montenegro.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1738_montenegro/"
+    },
+    {
+      "fullName": "Caamaño, Benjamín",
+      "surname": "Caamaño",
+      "firstname": "Benjamín",
+      "alt": "Benjamín  Caamaño",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1725_caamano.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1725_caamano/"
+    },
+    {
+      "fullName": "Russo, Jano",
+      "surname": "Russo",
+      "firstname": "Jano",
+      "alt": "Jano Russo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1810_russo.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1810_russo/"
+    },
+    {
+      "fullName": "Cueto, Benjamín Héctor",
+      "surname": "Cueto",
+      "firstname": "Benjamín Héctor",
+      "alt": "Benjamín Héctor Cueto",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1812_cueto.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1812_cueto/"
+    },
+    {
+      "fullName": "Centurión Borche, Mateo",
+      "surname": "Centurión Borche",
+      "firstname": "Mateo",
+      "alt": "Mateo Centurión Borche",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1805_centurion-roche.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1805_centurion-roche/"
+    },
+    {
+      "fullName": "Saldaña, Eros Facundo",
+      "surname": "Saldaña",
+      "firstname": "Eros Facundo",
+      "alt": "Eros Facundo Saldaña",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1743_saldana.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1743_saldana/"
+    },
+    {
+      "fullName": "Cuenca, Mateo Daniel",
+      "surname": "Cuenca",
+      "firstname": "Mateo Daniel",
+      "alt": "Mateo Daniel Cuenca",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1998_cuenca.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1998_cuenca/"
+    },
+    {
+      "fullName": "Salomé Maldonado, Dante Aian",
+      "surname": "Salomé Maldonado",
+      "firstname": "Dante Aian",
+      "alt": "Dante Aian Salomé Maldonado",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1744_salome-maldonado.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1744_salome-maldonado/"
+    },
+    {
+      "fullName": "Elosu, Sebastián",
+      "surname": "Elosu",
+      "firstname": "Sebastián",
+      "alt": "Sebastián  Elosu",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1730_elosu.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1730_elosu/"
+    },
+    {
+      "fullName": "Alfonso, Juan Ignacio",
+      "surname": "Alfonso",
+      "firstname": "Juan Ignacio",
+      "alt": "Juan Ignacio Alfonso",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1719_alfonso.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1719_alfonso/"
+    },
+    {
+      "fullName": "Santiago, Santino Alejandro",
+      "surname": "Santiago",
+      "firstname": "Santino Alejandro",
+      "alt": "Santino Alejandro Santiago",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1999_santiago.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1999_santiago/"
+    },
+    {
+      "fullName": "García, Santino",
+      "surname": "García",
+      "firstname": "Santino",
+      "alt": "Santino García",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1806_garcia.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1806_garcia/"
+    },
+    {
+      "fullName": "Careaga, Agustín Alexis",
+      "surname": "Careaga",
+      "firstname": "Agustín Alexis",
+      "alt": "Agustín Alexis Careaga",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1804_careaga.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1804_careaga/"
+    },
+    {
+      "fullName": "Velardes, Matías Valentino",
+      "surname": "Velardes",
+      "firstname": "Matías Valentino",
+      "alt": "Matías Valentino Velardes",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1748_velardes.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1748_velardes/"
+    },
+    {
+      "fullName": "Ianacce, Santiago",
+      "surname": "Ianacce",
+      "firstname": "Santiago",
+      "alt": "Santiago Ianacce",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1814_iammase.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1814_iammase/"
+    },
+    {
+      "fullName": "Carrasco, Dante Benjamín",
+      "surname": "Carrasco",
+      "firstname": "Dante Benjamín",
+      "alt": "Dante Benjamín Carrasco",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1726_carrasco.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1726_carrasco/"
+    },
+    {
+      "fullName": "Velázquez, Alejandro",
+      "surname": "Velázquez",
+      "firstname": "Alejandro",
+      "alt": "Alejandro Velázquez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2102_velazquez.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/2102_velazquez/"
+    },
+    {
+      "fullName": "Possadino, Santino Antonio",
+      "surname": "Possadino",
+      "firstname": "Santino Antonio",
+      "alt": "Santino Antonio Possadino",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1741_possadino.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1741_possadino/"
+    },
+    {
+      "fullName": "Alcaraz Meza, Franco Austin",
+      "surname": "Alcaraz Meza",
+      "firstname": "Franco Austin",
+      "alt": "Franco Austin Alcaraz Meza",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1722_alcaraz-meza.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1722_alcaraz-meza/"
+    },
+    {
+      "fullName": "González Bartucci, Román Daniel",
+      "surname": "González Bartucci",
+      "firstname": "Román Daniel",
+      "alt": "Román Daniel González Bartucci",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1734_gonzalez-bartucci.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1734_gonzalez-bartucci/"
+    },
+    {
+      "fullName": "Olivera, Nazareno Benjamín",
+      "surname": "Olivera",
+      "firstname": "Nazareno Benjamín",
+      "alt": "Nazareno Benjamín Olivera",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1739_olivera.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1739_olivera/"
+    },
+    {
+      "fullName": "Soria Bustos, Enzo Ariel",
+      "surname": "Soria Bustos",
+      "firstname": "Enzo Ariel",
+      "alt": "Enzo Ariel Soria Bustos",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1808_soria-bustos.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1808_soria-bustos/"
+    },
+    {
+      "fullName": "Unchalo, Juan Cruz",
+      "surname": "Unchalo",
+      "firstname": "Juan Cruz",
+      "alt": "Juan Cruz Unchalo",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1809_unchalo.webp?v=2.2",
+      "link": "/futbol/septima-division/jugador/1809_unchalo/"
+    },
+    {
+      "fullName": "Belisonzi, Sebastián",
+      "surname": "Belisonzi",
+      "firstname": "Sebastián",
+      "alt": "Sebastián Belisonzi",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/500_belisonzi.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/500_belisonzi/"
+    },
+    {
+      "fullName": "Zaragoza, Leonardo",
+      "surname": "Zaragoza",
+      "firstname": "Leonardo",
+      "alt": "Leonardo Zaragoza",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/438_zaragoza.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/438_zaragoza/"
+    },
+    {
+      "fullName": "Loza, Fernando",
+      "surname": "Loza",
+      "firstname": "Fernando",
+      "alt": "Fernando Loza",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/147_loza.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/147_loza/"
+    },
+    {
+      "fullName": "Andrada, Lucas",
+      "surname": "Andrada",
+      "firstname": "Lucas",
+      "alt": "Lucas Andrada",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/504_andrada.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/504_andrada/"
+    },
+    {
+      "fullName": "Ballesteros, José Luis",
+      "surname": "Ballesteros",
+      "firstname": "José Luis",
+      "alt": "José Luis  Ballesteros",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/421_ballesteros.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/421_ballesteros/"
+    },
+    {
+      "fullName": "Sangiovanni, Gisela Andrea",
+      "surname": "Sangiovanni",
+      "firstname": "Gisela Andrea",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/539_sangiovanni/"
+    },
+    {
+      "fullName": "Rudkiw, Alejandro",
+      "surname": "Rudkiw",
+      "firstname": "Alejandro",
+      "alt": "Alejandro Rudkiw",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/94_rudnik.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/94_rudnik/"
+    },
+    {
+      "fullName": "Carames, Estefania",
+      "surname": "Carames",
+      "firstname": "Estefania",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/517_carames/"
+    },
+    {
+      "fullName": "Cuneo, Mariano",
+      "surname": "Cuneo",
+      "firstname": "Mariano",
+      "alt": "Mariano Cuneo",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/453_cuneo.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/453_cuneo/"
+    },
+    {
+      "fullName": "Toro, Daniel",
+      "surname": "Toro",
+      "firstname": "Daniel",
+      "alt": "Daniel Toro",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/511_toro.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/511_toro/"
+    },
+    {
+      "fullName": "Gato, Jerónimo",
+      "surname": "Gato",
+      "firstname": "Jerónimo",
+      "alt": "Jerónimo Gato",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/533_gato.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/533_gato/"
+    },
+    {
+      "fullName": "González, Diego",
+      "surname": "González",
+      "firstname": "Diego",
+      "alt": "Diego González",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/536_gonzalez.webp?v=2.2",
+      "link": "/futbol/septima-division/cuerpo-tecnico/536_gonzalez/"
+    }
+  ],
+  "octava": [
+    {
+      "fullName": "Archila, Johhan",
+      "surname": "Archila",
+      "firstname": "Johhan",
+      "alt": "Johhan Archila",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2121_archila.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2121_archila/"
+    },
+    {
+      "fullName": "Saavedra, Lisandro",
+      "surname": "Saavedra",
+      "firstname": "Lisandro",
+      "alt": "Lisandro  Saavedra",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2117_saavedra.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2117_saavedra/"
+    },
+    {
+      "fullName": "Buch, Benjamín",
+      "surname": "Buch",
+      "firstname": "Benjamín",
+      "alt": "Benjamín Buch",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1849_buch.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1849_buch/"
+    },
+    {
+      "fullName": "Molina, Giuliano",
+      "surname": "Molina",
+      "firstname": "Giuliano",
+      "alt": "Giuliano Molina",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2119_molina.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2119_molina/"
+    },
+    {
+      "fullName": "Navarro, Benjamín",
+      "surname": "Navarro",
+      "firstname": "Benjamín",
+      "alt": "Benjamín Navarro",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2118_navarro.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2118_navarro/"
+    },
+    {
+      "fullName": "Rolón, Aron Bautista",
+      "surname": "Rolón",
+      "firstname": "Aron Bautista",
+      "alt": "Aron Bautista Rolón",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1833_rolon.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1833_rolon/"
+    },
+    {
+      "fullName": "Ruiz Bartolomey, Venancio",
+      "surname": "Ruiz Bartolomey",
+      "firstname": "Venancio",
+      "alt": "Venancio Ruiz Bartolomey",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2120_ruiz-bartolomey.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2120_ruiz-bartolomey/"
+    },
+    {
+      "fullName": "Pereyra, Guido Emanuel",
+      "surname": "Pereyra",
+      "firstname": "Guido Emanuel",
+      "alt": "Guido Emanuel  Pereyra",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1831_pereyra.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1831_pereyra/"
+    },
+    {
+      "fullName": "Robledo, Enzo Rodrigo",
+      "surname": "Robledo",
+      "firstname": "Enzo Rodrigo",
+      "alt": "Enzo Rodrigo  Robledo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1839_robledo.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1839_robledo/"
+    },
+    {
+      "fullName": "Cespedez, Oscar",
+      "surname": "Cespedez",
+      "firstname": "Oscar",
+      "alt": "Oscar Cespedez",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2104_cespedez.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2104_cespedez/"
+    },
+    {
+      "fullName": "Tuninetti, Santino",
+      "surname": "Tuninetti",
+      "firstname": "Santino",
+      "alt": "Santino Tuninetti",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1835_tuninetti.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1835_tuninetti/"
+    },
+    {
+      "fullName": "Chávez Capdeville, Pablo Martín",
+      "surname": "Chávez Capdeville",
+      "firstname": "Pablo Martín",
+      "alt": "Pablo Martín Chávez Capdeville",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2017_chavez-capdeville.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2017_chavez-capdeville/"
+    },
+    {
+      "fullName": "Ermida del Soldato, Ciro",
+      "surname": "Ermida del Soldato",
+      "firstname": "Ciro",
+      "alt": "Ciro Ermida del Soldato",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2005_ermida-del-soldato.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2005_ermida-del-soldato/"
+    },
+    {
+      "fullName": "González, Román Nicolás",
+      "surname": "González",
+      "firstname": "Román Nicolás",
+      "alt": "Román Nicolás González",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2004_gonzalez.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2004_gonzalez/"
+    },
+    {
+      "fullName": "Borda, Agustín Ezequiel",
+      "surname": "Borda",
+      "firstname": "Agustín Ezequiel",
+      "alt": "Agustín Ezequiel Borda",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1821_borda.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1821_borda/"
+    },
+    {
+      "fullName": "Toloza, Santiago Mateo",
+      "surname": "Toloza",
+      "firstname": "Santiago Mateo",
+      "alt": "Santiago Mateo Toloza",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1842_toloza.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1842_toloza/"
+    },
+    {
+      "fullName": "Klid, Benjamín Sebastián",
+      "surname": "Klid",
+      "firstname": "Benjamín Sebastián",
+      "alt": "Benjamín Sebastián Klid",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1825_klid.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1825_klid/"
+    },
+    {
+      "fullName": "Cabrera, Bastian",
+      "surname": "Cabrera",
+      "firstname": "Bastian",
+      "alt": "Bastian Cabrera",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2008_cabrera.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2008_cabrera/"
+    },
+    {
+      "fullName": "Livio, Mateo",
+      "surname": "Livio",
+      "firstname": "Mateo",
+      "alt": "Mateo Livio",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1826_livio.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1826_livio/"
+    },
+    {
+      "fullName": "Calli, Valentino",
+      "surname": "Calli",
+      "firstname": "Valentino",
+      "alt": "Valentino Calli",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2015_calli.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2015_calli/"
+    },
+    {
+      "fullName": "Mosqueira Leguizamón, Ian Michael",
+      "surname": "Mosqueira Leguizamón",
+      "firstname": "Ian Michael",
+      "alt": "Ian Michael Mosqueira Leguizamón",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1837_mosqueira-leguizamon.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1837_mosqueira-leguizamon/"
+    },
+    {
+      "fullName": "Elosu Larumbe, Martín",
+      "surname": "Elosu Larumbe",
+      "firstname": "Martín",
+      "alt": "Martín Elosu Larumbe",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1824_elosu-larumbe.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1824_elosu-larumbe/"
+    },
+    {
+      "fullName": "Álvarez Roldán, Milo",
+      "surname": "Álvarez Roldán",
+      "firstname": "Milo",
+      "alt": "Milo Álvarez Roldán",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2006_alvarez-roldan.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2006_alvarez-roldan/"
+    },
+    {
+      "fullName": "Pimentel LLanes, Uriel Lenadro",
+      "surname": "Pimentel LLanes",
+      "firstname": "Uriel Lenadro",
+      "alt": "Uriel Lenadro Pimentel LLanes",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1832_pimentel-llanes.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1832_pimentel-llanes/"
+    },
+    {
+      "fullName": "Gómez, Maximiliano Benjamín",
+      "surname": "Gómez",
+      "firstname": "Maximiliano Benjamín",
+      "alt": "Maximiliano Benjamín Gómez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2011_gomez.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2011_gomez/"
+    },
+    {
+      "fullName": "Benavidez, Felipe León",
+      "surname": "Benavidez",
+      "firstname": "Felipe León",
+      "alt": "Felipe León Benavidez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1820_benavidez.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1820_benavidez/"
+    },
+    {
+      "fullName": "Ramos Cristaldo, Thiago",
+      "surname": "Ramos Cristaldo",
+      "firstname": "Thiago",
+      "alt": "Thiago Ramos Cristaldo",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1840_ramos-cristaldo.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1840_ramos-cristaldo/"
+    },
+    {
+      "fullName": "Gutiérrez, Joaquín",
+      "surname": "Gutiérrez",
+      "firstname": "Joaquín",
+      "alt": "Joaquín Gutiérrez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2009_gutierrez.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2009_gutierrez/"
+    },
+    {
+      "fullName": "Caballero, Valentín Luciano",
+      "surname": "Caballero",
+      "firstname": "Valentín Luciano",
+      "alt": "Valentín Luciano Caballero",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1822_caballero.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1822_caballero/"
+    },
+    {
+      "fullName": "Cueto, Baltasar Luis",
+      "surname": "Cueto",
+      "firstname": "Baltasar Luis",
+      "alt": "Baltasar Luis Cueto",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2018_cueto.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/2018_cueto/"
+    },
+    {
+      "fullName": "La Rosa Fuenmayor, Santiago Andrés",
+      "surname": "La Rosa Fuenmayor",
+      "firstname": "Santiago Andrés",
+      "alt": "Santiago Andrés La Rosa Fuenmayor",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1841_la-rosa-fuenmayor.webp?v=2.2",
+      "link": "/futbol/octava-division/jugador/1841_la-rosa-fuenmayor/"
+    },
+    {
+      "fullName": "Dorrego, Dardo",
+      "surname": "Dorrego",
+      "firstname": "Dardo",
+      "alt": "Dardo Dorrego",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/303_dorredo.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/303_dorredo/"
+    },
+    {
+      "fullName": "González, Ángel",
+      "surname": "González",
+      "firstname": "Ángel",
+      "alt": "Ángel González",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/439_gonzalez.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/439_gonzalez/"
+    },
+    {
+      "fullName": "Fernández, Marcelo",
+      "surname": "Fernández",
+      "firstname": "Marcelo",
+      "alt": "Marcelo Fernández",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/42_fernandez.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/42_fernandez/"
+    },
+    {
+      "fullName": "Andrada, Lucas",
+      "surname": "Andrada",
+      "firstname": "Lucas",
+      "alt": "Lucas Andrada",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/503_andrada.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/503_andrada/"
+    },
+    {
+      "fullName": "Ballesteros, José Luis",
+      "surname": "Ballesteros",
+      "firstname": "José Luis",
+      "alt": "José Luis  Ballesteros",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/422_ballesteros.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/422_ballesteros/"
+    },
+    {
+      "fullName": "Sangiovanni, Gisela Andrea",
+      "surname": "Sangiovanni",
+      "firstname": "Gisela Andrea",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/540_sangiovanni/"
+    },
+    {
+      "fullName": "Rudkiw, Alejandro",
+      "surname": "Rudkiw",
+      "firstname": "Alejandro",
+      "alt": "Alejandro Rudkiw",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/520_rudkiw.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/520_rudkiw/"
+    },
+    {
+      "fullName": "Camares, Estefania",
+      "surname": "Camares",
+      "firstname": "Estefania",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/518_camares/"
+    },
+    {
+      "fullName": "Cuneo, Mariano",
+      "surname": "Cuneo",
+      "firstname": "Mariano",
+      "alt": "Mariano Cuneo",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/169_cuneo.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/169_cuneo/"
+    },
+    {
+      "fullName": "Toro, Daniel",
+      "surname": "Toro",
+      "firstname": "Daniel",
+      "alt": "Daniel Toro",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/512_toro.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/512_toro/"
+    },
+    {
+      "fullName": "Gato, Jerónimo",
+      "surname": "Gato",
+      "firstname": "Jerónimo",
+      "alt": "Jerónimo Gato",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/534_gato.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/534_gato/"
+    },
+    {
+      "fullName": "González, Diego",
+      "surname": "González",
+      "firstname": "Diego",
+      "alt": "Diego  González",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/537_gonzalez.webp?v=2.2",
+      "link": "/futbol/octava-division/cuerpo-tecnico/537_gonzalez/"
+    }
+  ],
+  "novena": [
+    {
+      "fullName": "Bogarín, Ulises Gabriel",
+      "surname": "Bogarín",
+      "firstname": "Ulises Gabriel",
+      "alt": "Ulises Gabriel Bogarín",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2025_bogarin.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2025_bogarin/"
+    },
+    {
+      "fullName": "Bordón Noguera, Bautista Ezequiel",
+      "surname": "Bordón Noguera",
+      "firstname": "Bautista Ezequiel",
+      "alt": "Bautista Ezequiel Bordón Noguera",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2026_bordon-noguera.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2026_bordon-noguera/"
+    },
+    {
+      "fullName": "González Rivero, Joaquín",
+      "surname": "González Rivero",
+      "firstname": "Joaquín",
+      "alt": "Joaquín González Rivero",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2029_gonzalez-rivero.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2029_gonzalez-rivero/"
+    },
+    {
+      "fullName": "Llodra, Geremías Sebastián",
+      "surname": "Llodra",
+      "firstname": "Geremías Sebastián",
+      "alt": "Geremías Sebastián Llodra",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2031_llodra.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2031_llodra/"
+    },
+    {
+      "fullName": "Sagasta, Dante",
+      "surname": "Sagasta",
+      "firstname": "Dante",
+      "alt": "Dante Sagasta",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2044_sagasta.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2044_sagasta/"
+    },
+    {
+      "fullName": "Medina, Franco",
+      "surname": "Medina",
+      "firstname": "Franco",
+      "alt": "Franco Medina",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2035_medina.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2035_medina/"
+    },
+    {
+      "fullName": "Villa, Luciano Aaron",
+      "surname": "Villa",
+      "firstname": "Luciano Aaron",
+      "alt": "Luciano Aaron Villa",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2051_villa.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2051_villa/"
+    },
+    {
+      "fullName": "Medina Santa Cruz, Juan Cruz",
+      "surname": "Medina Santa Cruz",
+      "firstname": "Juan Cruz",
+      "alt": "Juan Cruz Medina Santa Cruz",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2036_medina-santa-cruz.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2036_medina-santa-cruz/"
+    },
+    {
+      "fullName": "Montenegro, Benicio Jesús",
+      "surname": "Montenegro",
+      "firstname": "Benicio Jesús",
+      "alt": "Benicio Jesús Montenegro",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2038_montenegro.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2038_montenegro/"
+    },
+    {
+      "fullName": "Pachi, Elian Leonel",
+      "surname": "Pachi",
+      "firstname": "Elian Leonel",
+      "alt": "Elian Leonel Pachi",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2039_pachi.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2039_pachi/"
+    },
+    {
+      "fullName": "Cubilla Troncoso, Joaquín",
+      "surname": "Cubilla Troncoso",
+      "firstname": "Joaquín",
+      "alt": "Joaquín Cubilla Troncoso",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2055_cubilla-troncoso.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2055_cubilla-troncoso/"
+    },
+    {
+      "fullName": "Rivas Cabrera, Jorge David",
+      "surname": "Rivas Cabrera",
+      "firstname": "Jorge David",
+      "alt": "Jugador de Racing Club",
+      "posicion": "Defensor",
+      "img": "",
+      "link": "/futbol/novena-division/jugador/2054_rivas-cabrera/"
+    },
+    {
+      "fullName": "Gomis, Juan Pablo",
+      "surname": "Gomis",
+      "firstname": "Juan Pablo",
+      "alt": "Juan Pablo Gomis",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2057_gomis.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2057_gomis/"
+    },
+    {
+      "fullName": "Mancuello, Bastian Ezequiel",
+      "surname": "Mancuello",
+      "firstname": "Bastian Ezequiel",
+      "alt": "Bastian Ezequiel Mancuello",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2033_mancuello.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2033_mancuello/"
+    },
+    {
+      "fullName": "Mendoza, Ian Leandro",
+      "surname": "Mendoza",
+      "firstname": "Ian Leandro",
+      "alt": "Ian Leandro Mendoza",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2037_mendoza.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2037_mendoza/"
+    },
+    {
+      "fullName": "Arregui, Jesús Ezequiel",
+      "surname": "Arregui",
+      "firstname": "Jesús Ezequiel",
+      "alt": "Jesús Ezequiel Arregui",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2050_arregui.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2050_arregui/"
+    },
+    {
+      "fullName": "Pereira Cáceres, Ezequiel Benjamín",
+      "surname": "Pereira Cáceres",
+      "firstname": "Ezequiel Benjamín",
+      "alt": "Ezequiel Benjamín Pereira Cáceres",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2040_pereira-caceres.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2040_pereira-caceres/"
+    },
+    {
+      "fullName": "Banega, Benjamín Leandro",
+      "surname": "Banega",
+      "firstname": "Benjamín Leandro",
+      "alt": "Benjamín Leandro Banega",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2024_banega.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2024_banega/"
+    },
+    {
+      "fullName": "Ruiz Diaz, Francisco Federico",
+      "surname": "Ruiz Diaz",
+      "firstname": "Francisco Federico",
+      "alt": "Francisco Federico Ruiz Diaz",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2043_ruiz-diaz.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2043_ruiz-diaz/"
+    },
+    {
+      "fullName": "Garay, Mateo Ezequiel",
+      "surname": "Garay",
+      "firstname": "Mateo Ezequiel",
+      "alt": "Jugador de Racing Club",
+      "posicion": "Mediocampista",
+      "img": "",
+      "link": "/futbol/novena-division/jugador/2028_garay/"
+    },
+    {
+      "fullName": "Allende, Gianluca Dustin",
+      "surname": "Allende",
+      "firstname": "Gianluca Dustin",
+      "alt": "Gianluca Dustin Allende",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2058_allende.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2058_allende/"
+    },
+    {
+      "fullName": "Kiefer, Antonio Ezequiel",
+      "surname": "Kiefer",
+      "firstname": "Antonio Ezequiel",
+      "alt": "Antonio Ezequiel Kiefer",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2030_kiefer.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2030_kiefer/"
+    },
+    {
+      "fullName": "Álvarez Cofre, Mateo Arian",
+      "surname": "Álvarez Cofre",
+      "firstname": "Mateo Arian",
+      "alt": "Mateo Arian Álvarez Cofre",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2056_alvarez-cofre.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2056_alvarez-cofre/"
+    },
+    {
+      "fullName": "Veltri, Santino",
+      "surname": "Veltri",
+      "firstname": "Santino",
+      "alt": "Santino Veltri",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2045_veltri.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2045_veltri/"
+    },
+    {
+      "fullName": "Balsano Caramella, Francesco",
+      "surname": "Balsano Caramella",
+      "firstname": "Francesco",
+      "alt": "Francesco Balsano Caramella",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2052_balsano-caramella.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2052_balsano-caramella/"
+    },
+    {
+      "fullName": "Barreto, Bautista Nazareno",
+      "surname": "Barreto",
+      "firstname": "Bautista Nazareno",
+      "alt": "Bautista Nazareno Barreto",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2053_barreto.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2053_barreto/"
+    },
+    {
+      "fullName": "Correa, Jaun Cruz",
+      "surname": "Correa",
+      "firstname": "Jaun Cruz",
+      "alt": "Jaun Cruz  Correa",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2027_correa.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2027_correa/"
+    },
+    {
+      "fullName": "Fernández, David Agustín",
+      "surname": "Fernández",
+      "firstname": "David Agustín",
+      "alt": "David Agustín  Fernández",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2047_fernandez.webp?v=2.2",
+      "link": "/futbol/novena-division/jugador/2047_fernandez/"
+    },
+    {
+      "fullName": "Alzati, Tomás",
+      "surname": "Alzati",
+      "firstname": "Tomás",
+      "alt": "Tomás  Alzati",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/501_alzati.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/501_alzati/"
+    },
+    {
+      "fullName": "Ruiz, Raúl",
+      "surname": "Ruiz",
+      "firstname": "Raúl",
+      "alt": "Raúl Ruiz",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/441_ruiz.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/441_ruiz/"
+    },
+    {
+      "fullName": "Mosquera, Ezequiel",
+      "surname": "Mosquera",
+      "firstname": "Ezequiel",
+      "alt": "Ezequiel Mosquera",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/292_mosquera.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/292_mosquera/"
+    },
+    {
+      "fullName": "Villalta, Emiliano",
+      "surname": "Villalta",
+      "firstname": "Emiliano",
+      "alt": "Emiliano Villalta",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/248_villalta.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/248_villalta/"
+    },
+    {
+      "fullName": "Andrada, Lucas",
+      "surname": "Andrada",
+      "firstname": "Lucas",
+      "alt": "Lucas  Andrada",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/502_andrada.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/502_andrada/"
+    },
+    {
+      "fullName": "Ballesteros, José Luis",
+      "surname": "Ballesteros",
+      "firstname": "José Luis",
+      "alt": "José Luis Ballesteros",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/425_bsllesteros.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/425_bsllesteros/"
+    },
+    {
+      "fullName": "Sangiovanni, Gisela Andrea",
+      "surname": "Sangiovanni",
+      "firstname": "Gisela Andrea",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/541_sangiovanni/"
+    },
+    {
+      "fullName": "Rudkiw, Alejandro",
+      "surname": "Rudkiw",
+      "firstname": "Alejandro",
+      "alt": "Alejandro Rudkiw",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/102_rudnik.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/102_rudnik/"
+    },
+    {
+      "fullName": "Carames, Estefania",
+      "surname": "Carames",
+      "firstname": "Estefania",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/519_carames/"
+    },
+    {
+      "fullName": "Cuneo, Mariano",
+      "surname": "Cuneo",
+      "firstname": "Mariano",
+      "alt": "Mariano Cuneo",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/325_cuneo.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/325_cuneo/"
+    },
+    {
+      "fullName": "Toro, Daniel",
+      "surname": "Toro",
+      "firstname": "Daniel",
+      "alt": "Daniel Toro",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/513_toro.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/513_toro/"
+    },
+    {
+      "fullName": "Gato, Jerónimo",
+      "surname": "Gato",
+      "firstname": "Jerónimo",
+      "alt": "Jerónimo Gato",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/535_gato.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/535_gato/"
+    },
+    {
+      "fullName": "González, Diego",
+      "surname": "González",
+      "firstname": "Diego",
+      "alt": "Diego  González",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/538_gonzalez.webp?v=2.2",
+      "link": "/futbol/novena-division/cuerpo-tecnico/538_gonzalez/"
+    }
+  ],
+  "reserva": [
+    {
+      "fullName": "Martínez, Lautaro Elías",
+      "surname": "Martínez",
+      "firstname": "Lautaro Elías",
+      "alt": "Lautaro Elías Martínez",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/2106_martinez.webp?v=2.2",
+      "link": "/futbol/selectivo/jugador/2106_martinez/"
+    },
+    {
+      "fullName": "Romero, Benicio",
+      "surname": "Romero",
+      "firstname": "Benicio",
+      "alt": "Benicio Romero",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1773_romero.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1773_romero/"
+    },
+    {
+      "fullName": "Wolfert, Lucas Leonel",
+      "surname": "Wolfert",
+      "firstname": "Lucas Leonel",
+      "alt": "Lucas Leonel Wolfert",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1765_wolfert.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1765_wolfert/"
+    },
+    {
+      "fullName": "Igon, Felipe",
+      "surname": "Igon",
+      "firstname": "Felipe",
+      "alt": "Felipe Igon",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1896_igon.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1896_igon/"
+    },
+    {
+      "fullName": "Latorre De La Vega, Lucio",
+      "surname": "Latorre De La Vega",
+      "firstname": "Lucio",
+      "alt": "Lucio Latorre De La Vega",
+      "posicion": "Arquero",
+      "img": "/img/futbol/jugadores/thumbs/1895_latorre-de-la-vega.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1895_latorre-de-la-vega/"
+    },
+    {
+      "fullName": "Quiroz, Juan Esteban",
+      "surname": "Quiroz",
+      "firstname": "Juan Esteban",
+      "alt": "Juan Esteban Quiroz",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1960_quiroz.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1960_quiroz/"
+    },
+    {
+      "fullName": "González, Benjamín",
+      "surname": "González",
+      "firstname": "Benjamín",
+      "alt": "Benjamín González",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1778_gonzalez.webp?v=2.2",
+      "link": "/futbol/selectivo/jugador/1778_gonzalez/"
+    },
+    {
+      "fullName": "Rivas Saleski, Lautaro Nicanor",
+      "surname": "Rivas Saleski",
+      "firstname": "Lautaro Nicanor",
+      "alt": "Lautaro Nicanor Rivas Saleski",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1780_rivas.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1780_rivas/"
+    },
+    {
+      "fullName": "Melluso, Mateo Bautista",
+      "surname": "Melluso",
+      "firstname": "Mateo Bautista",
+      "alt": "Mateo Bautista Melluso",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2109_melluso.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/2109_melluso/"
+    },
+    {
+      "fullName": "Volpe, Galo",
+      "surname": "Volpe",
+      "firstname": "Galo",
+      "alt": "Galo Volpe",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1380_volpe.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1380_volpe/"
+    },
+    {
+      "fullName": "Merino, Jhoan Ernesto",
+      "surname": "Merino",
+      "firstname": "Jhoan Ernesto",
+      "alt": "Jhoan Ernesto Merino",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1600_merino.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1600_merino/"
+    },
+    {
+      "fullName": "Meza, Samir Adriel",
+      "surname": "Meza",
+      "firstname": "Samir Adriel",
+      "alt": "Samir Adriel Meza",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1604_mesa.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1604_mesa/"
+    },
+    {
+      "fullName": "Agüero, Luciano Valentín",
+      "surname": "Agüero",
+      "firstname": "Luciano Valentín",
+      "alt": "Luciano Valentín Agüero",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2107_aguero.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/2107_aguero/"
+    },
+    {
+      "fullName": "Naranjo, Luciano Agustín",
+      "surname": "Naranjo",
+      "firstname": "Luciano Agustín",
+      "alt": "Luciano Agustín Naranjo",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/2110_naranjo.webp?v=2.2",
+      "link": "/futbol/selectivo/jugador/2110_naranjo/"
+    },
+    {
+      "fullName": "Dobal, Joaquín",
+      "surname": "Dobal",
+      "firstname": "Joaquín",
+      "alt": "Joaquín Dobal",
+      "posicion": "Defensor",
+      "img": "/img/futbol/jugadores/thumbs/1959_dobal.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1959_dobal/"
+    },
+    {
+      "fullName": "Yegros, Alexis Ariel",
+      "surname": "Yegros",
+      "firstname": "Alexis Ariel",
+      "alt": "Alexis Ariel Yegros",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1779_yegros.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1779_yegros/"
+    },
+    {
+      "fullName": "Leiva Aguero, Gonzalo Santiago",
+      "surname": "Leiva Aguero",
+      "firstname": "Gonzalo Santiago",
+      "alt": "Gonzalo Santiago Leiva Aguero",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1899_leiva-aguero.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1899_leiva-aguero/"
+    },
+    {
+      "fullName": "Pérez, Bautista Ezequiel",
+      "surname": "Pérez",
+      "firstname": "Bautista Ezequiel",
+      "alt": "Bautista Ezequiel Pérez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1963_perez.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1963_perez/"
+    },
+    {
+      "fullName": "Pérez, Ezequiel Damián",
+      "surname": "Pérez",
+      "firstname": "Ezequiel Damián",
+      "alt": "Ezequiel Damián Pérez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1964_perez.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1964_perez/"
+    },
+    {
+      "fullName": "Álvarez, Lucas Lionel",
+      "surname": "Álvarez",
+      "firstname": "Lucas Lionel",
+      "alt": "Lucas Lionel Álvarez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/2108_alvarez.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/2108_alvarez/"
+    },
+    {
+      "fullName": "Schaare, Felipe Valentín",
+      "surname": "Schaare",
+      "firstname": "Felipe Valentín",
+      "alt": "Felipe Valentín Schaare",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1581_schaare.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1581_schaare/"
+    },
+    {
+      "fullName": "Arias, Jeremias",
+      "surname": "Arias",
+      "firstname": "Jeremias",
+      "alt": "Jeremias Arias",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1961_arias.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1961_arias/"
+    },
+    {
+      "fullName": "Taborda, Thiago Uriel",
+      "surname": "Taborda",
+      "firstname": "Thiago Uriel",
+      "alt": "Thiago Uriel Taborda",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1777_taborda.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1777_taborda/"
+    },
+    {
+      "fullName": "Castreje Rodríguez, Bautista",
+      "surname": "Castreje Rodríguez",
+      "firstname": "Bautista",
+      "alt": "Bautista Castreje Rodríguez",
+      "posicion": "Mediocampista",
+      "img": "/img/futbol/jugadores/thumbs/1606_castreje-rodriguez.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1606_castreje-rodriguez/"
+    },
+    {
+      "fullName": "Ranalli, Santiago",
+      "surname": "Ranalli",
+      "firstname": "Santiago",
+      "alt": "Santiago  Ranalli",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1965_ranalli.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1965_ranalli/"
+    },
+    {
+      "fullName": "Velázquez Fernández, Joan",
+      "surname": "Velázquez Fernández",
+      "firstname": "Joan",
+      "alt": "Joan Velázquez Fernández",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1782_velazquez-fernandez.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1782_velazquez-fernandez/"
+    },
+    {
+      "fullName": "Campo Deusa, Driden Alberto",
+      "surname": "Campo Deusa",
+      "firstname": "Driden Alberto",
+      "alt": "Driden Alberto Campo Deusa",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/2105_campo-deusa.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/2105_campo-deusa/"
+    },
+    {
+      "fullName": "Carmona, Mateo Valentín",
+      "surname": "Carmona",
+      "firstname": "Mateo Valentín",
+      "alt": "Mateo Valentín Carmona",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1967_carmona.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1967_carmona/"
+    },
+    {
+      "fullName": "Fraga, Francisco",
+      "surname": "Fraga",
+      "firstname": "Francisco",
+      "alt": "Francisco Fraga",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1599_fraga.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1599_fraga/"
+    },
+    {
+      "fullName": "Milito Bonetto, Leandro Ezequiel",
+      "surname": "Milito Bonetto",
+      "firstname": "Leandro Ezequiel",
+      "alt": "Leandro Ezequiel Milito Bonetto",
+      "posicion": "Delantero",
+      "img": "/img/futbol/jugadores/thumbs/1966_molito-bonetto.jpg?v=2.2",
+      "link": "/futbol/selectivo/jugador/1966_molito-bonetto/"
+    },
+    {
+      "fullName": "Romero, Sebastián Ariel",
+      "surname": "Romero",
+      "firstname": "Sebastián Ariel",
+      "alt": "Sebastián Ariel Romero",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/468_romero.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/468_romero/"
+    },
+    {
+      "fullName": "Aued, Luciano Román",
+      "surname": "Aued",
+      "firstname": "Luciano Román",
+      "alt": "Luciano Román Aued",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/469_aued.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/469_aued/"
+    },
+    {
+      "fullName": "Romero, Pablo",
+      "surname": "Romero",
+      "firstname": "Pablo",
+      "alt": "Pablo  Romero",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/470_romero.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/470_romero/"
+    },
+    {
+      "fullName": "Gatti, Fernando",
+      "surname": "Gatti",
+      "firstname": "Fernando",
+      "alt": "Fernando Gatti",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/471_gatti.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/471_gatti/"
+    },
+    {
+      "fullName": "Fernández, Hernán",
+      "surname": "Fernández",
+      "firstname": "Hernán",
+      "alt": "Hernán  Fernández",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/472_fernandez.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/472_fernandez/"
+    },
+    {
+      "fullName": "Escobar, Federico",
+      "surname": "Escobar",
+      "firstname": "Federico",
+      "alt": "Federico Escobar",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/473_escobar.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/473_escobar/"
+    },
+    {
+      "fullName": "Desposito Villar, Luis",
+      "surname": "Desposito Villar",
+      "firstname": "Luis",
+      "alt": "Luis Desposito Villar",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/490_desposito.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/490_desposito/"
+    },
+    {
+      "fullName": "Mangialavori, Marcos",
+      "surname": "Mangialavori",
+      "firstname": "Marcos",
+      "alt": "Marcos Mangialavori",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/129_mangialavori.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/129_mangialavori/"
+    },
+    {
+      "fullName": "Marin, Candela",
+      "surname": "Marin",
+      "firstname": "Candela",
+      "alt": "Candela Marin",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/489_marin.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/489_marin/"
+    },
+    {
+      "fullName": "Ametller, Agustín",
+      "surname": "Ametller",
+      "firstname": "Agustín",
+      "alt": "Agustín Ametller",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/314_ametller.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/314_ametller/"
+    },
+    {
+      "fullName": "Ricagno, Andrea",
+      "surname": "Ricagno",
+      "firstname": "Andrea",
+      "alt": "Andrea Ricagno",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/542_ricagno.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/542_ricagno/"
+    },
+    {
+      "fullName": "Ferrer, Valentín",
+      "surname": "Ferrer",
+      "firstname": "Valentín",
+      "alt": "Valentín  Ferrer",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/311_ferrer.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/311_ferrer/"
+    },
+    {
+      "fullName": "Santos, Miguel",
+      "surname": "Santos",
+      "firstname": "Miguel",
+      "alt": "Miguel Santos",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/310_santos.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/310_santos/"
+    },
+    {
+      "fullName": "Medina, Maximiliano",
+      "surname": "Medina",
+      "firstname": "Maximiliano",
+      "alt": "Maximiliano  Medina",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/71_medina.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/71_medina/"
+    },
+    {
+      "fullName": "Gomis, Miguel",
+      "surname": "Gomis",
+      "firstname": "Miguel",
+      "alt": "Miguel Gomis",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/171_gomis.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/171_gomis/"
+    },
+    {
+      "fullName": "Donato, Hugo",
+      "surname": "Donato",
+      "firstname": "Hugo",
+      "alt": "Hugo Donato",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/491_donato.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/491_donato/"
+    },
+    {
+      "fullName": "Medina, Ramón",
+      "surname": "Medina",
+      "firstname": "Ramón",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/521_medina/"
+    },
+    {
+      "fullName": "Costas, Leonardo Fabio",
+      "surname": "Costas",
+      "firstname": "Leonardo Fabio",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/522_costas/"
+    },
+    {
+      "fullName": "Seminario, Guillermo",
+      "surname": "Seminario",
+      "firstname": "Guillermo",
+      "alt": "Guillermo Seminario",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/443_seminario.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/443_seminario/"
+    },
+    {
+      "fullName": "Berrutti, Fabián",
+      "surname": "Berrutti",
+      "firstname": "Fabián",
+      "alt": "Fabián Berrutti",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/493_berrutti.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/493_berrutti/"
+    },
+    {
+      "fullName": "Belisonzi, Sebastián",
+      "surname": "Belisonzi",
+      "firstname": "Sebastián",
+      "alt": "Sebastián Belisonzi",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/494_belisonzi.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/494_belisonzi/"
+    },
+    {
+      "fullName": "Bustos Moyano, Nicolás",
+      "surname": "Bustos Moyano",
+      "firstname": "Nicolás",
+      "alt": "Nicolás Bustos Moyano",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/492_bustos-moyano.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/492_bustos-moyano/"
+    },
+    {
+      "fullName": "Hernández, Patricio",
+      "surname": "Hernández",
+      "firstname": "Patricio",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/526_hernandez/"
+    },
+    {
+      "fullName": "Fernández, Esteban Gabriel",
+      "surname": "Fernández",
+      "firstname": "Esteban Gabriel",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/523_fernandez/"
+    },
+    {
+      "fullName": "Güiraldes, Agustín",
+      "surname": "Güiraldes",
+      "firstname": "Agustín",
+      "alt": "Agustín Güiraldes",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/166_guiraldes.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/166_guiraldes/"
+    },
+    {
+      "fullName": "Portillo Ruffa, Ignacio",
+      "surname": "Portillo Ruffa",
+      "firstname": "Ignacio",
+      "alt": "Ignacio Portillo Ruffa",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/313_portillo-ruffa.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/313_portillo-ruffa/"
+    },
+    {
+      "fullName": "Ricagno, Andrea",
+      "surname": "Ricagno",
+      "firstname": "Andrea",
+      "alt": "Andrea Ricagno",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/205_ricagno.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/205_ricagno/"
+    },
+    {
+      "fullName": "Contarino, Cecilia",
+      "surname": "Contarino",
+      "firstname": "Cecilia",
+      "alt": "Cuerpo Técnico de Racing Club",
+      "posicion": "",
+      "img": "/img/futbol/cuerpotecnico_thumb.jpg?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/525_contarino/"
+    },
+    {
+      "fullName": "Ramenzoni, Lucila",
+      "surname": "Ramenzoni",
+      "firstname": "Lucila",
+      "alt": "Lucila Ramenzoni",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/210_ramenzoni.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/210_ramenzoni/"
+    },
+    {
+      "fullName": "Militich, Juan Gabriel",
+      "surname": "Militich",
+      "firstname": "Juan Gabriel",
+      "alt": "Juan Gabriel Militich",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/95_militich.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/95_militich/"
+    },
+    {
+      "fullName": "Villalba, Esteban",
+      "surname": "Villalba",
+      "firstname": "Esteban",
+      "alt": "Esteban Villalba",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/312_villalba.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/312_villalba/"
+    },
+    {
+      "fullName": "Lemma, Carlos",
+      "surname": "Lemma",
+      "firstname": "Carlos",
+      "alt": "Carlos  Lemma",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/231_lemma.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/231_lemma/"
+    },
+    {
+      "fullName": "Godoy, Horacio Alberto",
+      "surname": "Godoy",
+      "firstname": "Horacio Alberto",
+      "alt": "Horacio Alberto Godoy",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/47_godoy.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/47_godoy/"
+    },
+    {
+      "fullName": "Fleita, Juan Ramón",
+      "surname": "Fleita",
+      "firstname": "Juan Ramón",
+      "alt": "Juan Ramón Fleita",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/130_fleitas.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/130_fleitas/"
+    },
+    {
+      "fullName": "Loscri, Diego",
+      "surname": "Loscri",
+      "firstname": "Diego",
+      "alt": "Diego Loscri",
+      "posicion": "",
+      "img": "/img/futbol/cuerpo-tecnico/thumbs/245_loscri.webp?v=2.2",
+      "link": "/futbol/selectivo/cuerpo-tecnico/245_loscri/"
+    }
+  ]
+}

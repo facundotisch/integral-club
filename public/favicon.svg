@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <path d="M8 6 L40 6 L40 28 L24 44 L8 28 Z" fill="#002B66" stroke="#FFC72C" stroke-width="2"/>
+  <path d="M8 18 L40 18 L40 30 L8 30 Z" fill="#FFC72C"/>
+  <text x="24" y="27" font-family="Arial, sans-serif" font-weight="900" font-size="10" fill="#002B66" text-anchor="middle">IC</text>
+  <text x="24" y="14" font-family="Arial, sans-serif" font-weight="900" font-size="6" fill="#FFFFFF" text-anchor="middle">INTEGRAL</text>
+  <text x="24" y="38" font-family="Arial, sans-serif" font-weight="900" font-size="6" fill="#FFFFFF" text-anchor="middle">CLUB</text>
+</svg>
