@@ -25,7 +25,7 @@ export const ESTADOS_CAPTACION = [
   { value: 'Fichado', label: 'Fichado', color: '#10B981' },
   { value: 'Tiene que volver', label: 'Tiene que volver', color: '#F59E0B' },
   { value: 'Queda fuera', label: 'Queda fuera', color: '#EF4444' },
-  { value: 'En seguimiento', label: 'En seguimiento', color: '#002B66' },
+  { value: 'En seguimiento', label: 'En seguimiento', color: '#2a3b60' },
   { value: 'Citado a prueba', label: 'Citado a prueba', color: '#8B5CF6' }
 ];
 
@@ -660,7 +660,7 @@ export default function ProspectoFormulario({ prospecto, nextSuggestedId, onSave
                 borderRadius: '10px',
                 fontSize: '14px',
                 cursor: 'pointer',
-                boxShadow: '0 4px 12px rgba(0, 43, 102, 0.35)',
+                boxShadow: '0 4px 12px rgba(42, 59, 96, 0.35)',
                 transition: 'all 0.15s ease'
               }}
             >

@@ -25,7 +25,7 @@ export function calcularIMO(masaMuscularKg, masaOseaKg) {
 // Clasificación de percentiles / semáforo para fútbol formativo
 export function clasificarSumatoriaPliegues(sumatoriaMm) {
   if (sumatoriaMm < 35) return { nivel: 'Excelente', color: '#047857', bg: '#d1fae5' };
-  if (sumatoriaMm <= 48) return { nivel: 'Óptimo', color: '#002B66', bg: '#e0f2fe' };
+  if (sumatoriaMm <= 48) return { nivel: 'Óptimo', color: '#2a3b60', bg: '#e0f2fe' };
   if (sumatoriaMm <= 60) return { nivel: 'Aceptable', color: '#b45309', bg: '#fef3c7' };
   return { nivel: 'Elevado', color: '#b91c1c', bg: '#fee2e2' };
 }

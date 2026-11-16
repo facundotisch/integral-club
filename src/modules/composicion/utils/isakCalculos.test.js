@@ -80,7 +80,7 @@ describe('Cálculos ISAK II - Nutrición y Composición Corporal', () => {
     it('debe clasificar entre 35 mm y 48 mm como Óptimo (Celeste Integral)', () => {
       const res = clasificarSumatoriaPliegues(42);
       expect(res.nivel).toBe('Óptimo');
-      expect(res.color).toBe('#002B66');
+      expect(res.color).toBe('#2a3b60');
     });
 
     it('debe clasificar entre 49 mm y 60 mm como Aceptable (Ámbar)', () => {

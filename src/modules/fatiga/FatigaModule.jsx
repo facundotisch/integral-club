@@ -47,7 +47,7 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
             type="button"
             onClick={onIrAWellness}
             style={{
-              background: '#002B66',
+              background: '#2a3b60',
               color: '#ffffff',
               border: 'none',
               padding: '6px 14px',
@@ -112,7 +112,7 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
             fontWeight: 800,
             cursor: 'pointer',
             border: 'none',
-            background: tabActiva === 'admin' ? '#002B66' : 'var(--card, #ffffff)',
+            background: tabActiva === 'admin' ? '#2a3b60' : 'var(--card, #ffffff)',
             color: tabActiva === 'admin' ? '#ffffff' : 'var(--text-muted, #64748b)',
             boxShadow: '0 2px 8px rgba(0,0,0,0.04)',
             display: 'flex',
@@ -135,7 +135,7 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
             fontWeight: 800,
             cursor: 'pointer',
             border: 'none',
-            background: tabActiva === 'teoria' ? '#002B66' : 'var(--card, #ffffff)',
+            background: tabActiva === 'teoria' ? '#2a3b60' : 'var(--card, #ffffff)',
             color: tabActiva === 'teoria' ? '#ffffff' : 'var(--text-muted, #64748b)',
             boxShadow: '0 2px 8px rgba(0,0,0,0.04)',
             display: 'flex',
@@ -165,8 +165,8 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
             {/* Banner link móvil */}
             <div className="card" style={{ 
               padding: '24px 28px', 
-              background: 'linear-gradient(135deg, rgba(0, 43, 102, 0.08) 0%, rgba(16, 185, 129, 0.08) 100%)',
-              border: '1.5px solid rgba(0, 43, 102, 0.35)',
+              background: 'linear-gradient(135deg, rgba(42, 59, 96, 0.08) 0%, rgba(16, 185, 129, 0.08) 100%)',
+              border: '1.5px solid rgba(42, 59, 96, 0.35)',
               borderRadius: '16px'
             }}>
               <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '16px' }}>
@@ -175,7 +175,7 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
                     width: '52px',
                     height: '52px',
                     borderRadius: '12px',
-                    background: 'linear-gradient(135deg, #002B66 0%, #0055a5 100%)',
+                    background: 'linear-gradient(135deg, #2a3b60 0%, #0055a5 100%)',
                     color: '#ffffff',
                     display: 'flex',
                     alignItems: 'center',
@@ -199,7 +199,7 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
                     type="button"
                     onClick={onIrAWellness}
                     style={{
-                      background: '#002B66',
+                      background: '#2a3b60',
                       color: '#ffffff',
                       border: 'none',
                       padding: '10px 18px',
@@ -263,7 +263,7 @@ export default function FatigaModule({ onVolverHub, onIrAWellness, tema = 'claro
 
               <div className="card" style={{ padding: '22px' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '12px' }}>
-                  <div style={{ width: 34, height: 34, borderRadius: 8, background: 'rgba(0, 43, 102, 0.12)', color: '#002B66', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  <div style={{ width: 34, height: 34, borderRadius: 8, background: 'rgba(42, 59, 96, 0.12)', color: '#2a3b60', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                     <Activity size={18} />
                   </div>
                   <h3 style={{ fontSize: '15px', fontWeight: 700, margin: 0, color: 'var(--text)' }}>2. Carga Interna (sRPE)</h3>

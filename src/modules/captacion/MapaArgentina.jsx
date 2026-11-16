@@ -207,22 +207,22 @@ export default function MapaArgentina({
     const isHovered = hoveredProvincia?.nombre === provNombre;
 
     if (isSelected) {
-      return '#002B66';
+      return '#2a3b60';
     }
     if (isHovered) {
-      return total > 0 ? '#38bdf8' : 'rgba(0, 43, 102, 0.25)';
+      return total > 0 ? '#38bdf8' : 'rgba(42, 59, 96, 0.25)';
     }
     if (total === 0) {
       return tema === 'oscuro' ? '#182438' : '#e2e8f0';
     }
-    if (maxConteo <= 1) return 'rgba(0, 43, 102, 0.65)';
+    if (maxConteo <= 1) return 'rgba(42, 59, 96, 0.65)';
     
     // Escala de intensidad celeste Integral
     const ratio = total / maxConteo;
-    if (ratio >= 0.8) return '#002B66';
-    if (ratio >= 0.5) return 'rgba(0, 43, 102, 0.85)';
-    if (ratio >= 0.25) return 'rgba(0, 43, 102, 0.60)';
-    return 'rgba(0, 43, 102, 0.40)';
+    if (ratio >= 0.8) return '#2a3b60';
+    if (ratio >= 0.5) return 'rgba(42, 59, 96, 0.85)';
+    if (ratio >= 0.25) return 'rgba(42, 59, 96, 0.60)';
+    return 'rgba(42, 59, 96, 0.40)';
   };
 
   const handleMouseMove = (e, prov) => {
@@ -513,7 +513,7 @@ export default function MapaArgentina({
                     id={prov.id}
                     d={prov.d}
                     fill={getProvinceFill(prov.nombre)}
-                    stroke={isSelected ? '#ffffff' : isHovered ? '#002B66' : tema === 'oscuro' ? 'rgba(255,255,255,0.22)' : 'rgba(0,0,0,0.2)'}
+                    stroke={isSelected ? '#ffffff' : isHovered ? '#2a3b60' : tema === 'oscuro' ? 'rgba(255,255,255,0.22)' : 'rgba(0,0,0,0.2)'}
                     strokeWidth={isSelected ? '2.4' : isHovered ? '1.8' : '0.8'}
                     style={{
                       cursor: 'pointer',
@@ -634,11 +634,11 @@ export default function MapaArgentina({
               <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                 <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: tema === 'oscuro' ? '#182438' : '#e2e8f0', display: 'inline-block' }} />
                 <span>0</span>
-                <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: 'rgba(0, 43, 102, 0.45)', display: 'inline-block' }} />
+                <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: 'rgba(42, 59, 96, 0.45)', display: 'inline-block' }} />
                 <span>1-2</span>
-                <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: 'rgba(0, 43, 102, 0.85)', display: 'inline-block' }} />
+                <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: 'rgba(42, 59, 96, 0.85)', display: 'inline-block' }} />
                 <span>3+</span>
-                <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: '#002B66', display: 'inline-block' }} />
+                <span style={{ width: '10px', height: '10px', borderRadius: '2px', background: '#2a3b60', display: 'inline-block' }} />
                 <span>Líder</span>
               </div>
             </div>
@@ -665,7 +665,7 @@ export default function MapaArgentina({
                 <span style={{ 
                   fontSize: '9.5px', 
                   fontWeight: 700, 
-                  background: 'rgba(0, 43, 102, 0.1)', 
+                  background: 'rgba(42, 59, 96, 0.1)', 
                   color: 'var(--celeste)', 
                   padding: '2px 6px', 
                   borderRadius: '4px' 
@@ -682,7 +682,7 @@ export default function MapaArgentina({
                   <span style={{ color: '#10B981' }}>Fichados: {conteoPorProvincia[hoveredProvincia.nombre].fichados}</span>
                   <span style={{ color: '#F59E0B' }}>Volver: {conteoPorProvincia[hoveredProvincia.nombre].volver}</span>
                   <span style={{ color: '#EF4444' }}>Fuera: {conteoPorProvincia[hoveredProvincia.nombre].fuera}</span>
-                  <span style={{ color: '#002B66' }}>Seguimiento: {conteoPorProvincia[hoveredProvincia.nombre].enSeguimiento}</span>
+                  <span style={{ color: '#2a3b60' }}>Seguimiento: {conteoPorProvincia[hoveredProvincia.nombre].enSeguimiento}</span>
                 </div>
               )}
             </div>
@@ -725,7 +725,7 @@ export default function MapaArgentina({
                         display: 'flex',
                         alignItems: 'center',
                         gap: '4px',
-                        boxShadow: '0 2px 6px rgba(0, 43, 102, 0.25)'
+                        boxShadow: '0 2px 6px rgba(42, 59, 96, 0.25)'
                       }}
                     >
                       <FileText size={12} color="#ffffff" />
@@ -908,7 +908,7 @@ export default function MapaArgentina({
                         cursor: 'pointer',
                         padding: '6px 10px',
                         borderRadius: '8px',
-                        background: isSelected ? 'rgba(0, 43, 102, 0.12)' : 'transparent',
+                        background: isSelected ? 'rgba(42, 59, 96, 0.12)' : 'transparent',
                         border: isSelected ? '1px solid var(--celeste)' : '1px solid transparent',
                         transition: 'all 0.15s ease'
                       }}

@@ -279,9 +279,9 @@ export default function WellnessPlayerPage({ onVolverHub, tema = 'claro', onTogg
             type="button"
             onClick={() => setVistaAdmin(!vistaAdmin)}
             style={{
-              background: vistaAdmin ? '#002B66' : 'rgba(0, 43, 102, 0.1)',
-              color: vistaAdmin ? '#ffffff' : '#002B66',
-              border: '1px solid rgba(0, 43, 102, 0.4)',
+              background: vistaAdmin ? '#2a3b60' : 'rgba(42, 59, 96, 0.1)',
+              color: vistaAdmin ? '#ffffff' : '#2a3b60',
+              border: '1px solid rgba(42, 59, 96, 0.4)',
               borderRadius: '8px',
               padding: '4px 9px',
               fontSize: '11px',
@@ -360,7 +360,7 @@ export default function WellnessPlayerPage({ onVolverHub, tema = 'claro', onTogg
                   boxSizing: 'border-box'
                 }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
-                    <div style={{ fontSize: '11px', fontWeight: 800, color: '#002B66', textTransform: 'uppercase' }}>
+                    <div style={{ fontSize: '11px', fontWeight: 800, color: '#2a3b60', textTransform: 'uppercase' }}>
                       Resumen de Carga (0 = Óptimo · 10 = Alerta)
                     </div>
                     <span style={{
@@ -425,7 +425,7 @@ export default function WellnessPlayerPage({ onVolverHub, tema = 'claro', onTogg
                     style={{
                       background: 'transparent',
                       border: 'none',
-                      color: '#002B66',
+                      color: '#2a3b60',
                       fontSize: '13px',
                       fontWeight: 700,
                       cursor: 'pointer',
@@ -487,7 +487,7 @@ export default function WellnessPlayerPage({ onVolverHub, tema = 'claro', onTogg
                         color: 'var(--text-muted, #475569)',
                         marginTop: '4px'
                       }}>
-                        <Calendar size={13} color="#002B66" />
+                        <Calendar size={13} color="#2a3b60" />
                         <span>Evaluación: {fechaHoyStr}</span>
                       </div>
                     </div>
@@ -612,7 +612,7 @@ export default function WellnessPlayerPage({ onVolverHub, tema = 'claro', onTogg
                     
                     <div className="wellness-section-date-strip">
                       <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                        <Calendar size={14} color="#002B66" />
+                        <Calendar size={14} color="#2a3b60" />
                         <span>Fecha: <strong style={{ color: 'var(--text, #0f172a)' }}>{fechaHoyStr}</strong></span>
                       </div>
                     </div>

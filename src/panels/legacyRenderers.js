@@ -673,7 +673,7 @@ function renderPlanilla(p){
     if(!mds || !mds.length) return;
 
     var chartDefs = [
-      { id: 'planChartDist', title: 'Distancia total (m)', color: '#002B66', fn: function(md){ return Math.round(valMD(byMD[md], 'dist')); }, unit: ' m' },
+      { id: 'planChartDist', title: 'Distancia total (m)', color: '#2a3b60', fn: function(md){ return Math.round(valMD(byMD[md], 'dist')); }, unit: ' m' },
       { id: 'planChart1618', title: '16 a 18 km/h (m)', color: '#10B981', fn: function(md){ return Math.round(valMD(byMD[md], 'z1618')); }, unit: ' m' },
       { id: 'planChartS25',  title: 'Más de 25 km/h (m)', color: '#F59E0B', fn: function(md){ return Math.round(valMD(byMD[md], 's25')); }, unit: ' m' },
       { id: 'planChartSprints', title: 'Cantidad de sprint', color: '#8B5CF6', fn: function(md){ return Math.round(valMD(byMD[md], 'sprints')); }, unit: '' },
@@ -735,7 +735,7 @@ function renderPlanilla(p){
     var varKey = sel ? sel.value : 'drel';
 
     var varMap = {
-      'drel': { title: 'Distancia relativa (m/min)', fn: function(md){ return Math.round(valMD(byMD[md], 'drel')); }, unit: ' m/min', col: '#003882' },
+      'drel': { title: 'Distancia relativa (m/min)', fn: function(md){ return Math.round(valMD(byMD[md], 'drel')); }, unit: ' m/min', col: '#384e7f' },
       'z1825': { title: '18 a 25 km/h (m)', fn: function(md){ return Math.round(valMD(byMD[md], 'z1825')); }, unit: ' m', col: '#14B8A6' },
       'hi': { title: 'S > 16 km/h (m)', fn: function(md){ return Math.round(valMD(byMD[md], 'hi')); }, unit: ' m', col: '#6366F1' },
       'accAlta': { title: 'Acc > 4 m/s', fn: function(md){ return Math.round(valMD(byMD[md], 'accAlta')); }, unit: '', col: '#D946EF' },
@@ -1366,14 +1366,14 @@ function renderRanking(p){
   });
 
   var mets = [
-    {key:'dist', label:'D (m) — Distancia promedio', unit:' m', dec:0, color:'#002B66'},
-    {key:'drel', label:'Drel (m/min) — Distancia relativa', unit:' m/min', dec:1, color:'#002B66'},
-    {key:'carga', label:'Carga semanal (promedio)', unit:'', dec:0, color:'#002B66'},
-    {key:'topSpeed', label:'Top speed (km/h) — récord', unit:' km/h', dec:1, color:'#002B66'},
+    {key:'dist', label:'D (m) — Distancia promedio', unit:' m', dec:0, color:'#2a3b60'},
+    {key:'drel', label:'Drel (m/min) — Distancia relativa', unit:' m/min', dec:1, color:'#2a3b60'},
+    {key:'carga', label:'Carga semanal (promedio)', unit:'', dec:0, color:'#2a3b60'},
+    {key:'topSpeed', label:'Top speed (km/h) — récord', unit:' km/h', dec:1, color:'#2a3b60'},
     {key:'sprints', label:'Sprint (promedio)', unit:'', dec:1, color:'#2ECC71'},
-    {key:'acc', label:'Acc > 2,5 m/s', unit:'', dec:0, color:'#002B66'},
+    {key:'acc', label:'Acc > 2,5 m/s', unit:'', dec:0, color:'#2a3b60'},
     {key:'dec', label:'Dec > -2,5 m/s', unit:'', dec:0, color:'#E74C3C'},
-    {key:'accAlta', label:'Acc > 4 m/s', unit:'', dec:1, color:'#002B66'},
+    {key:'accAlta', label:'Acc > 4 m/s', unit:'', dec:1, color:'#2a3b60'},
     {key:'decAlta', label:'Dec > -4 m/s', unit:'', dec:1, color:'#E74C3C'},
     {key:'hi', label:'S > 16 Km/h (m)', unit:' m', dec:0, color:'#F1C40F'},
     {key:'z1618', label:'16-18 Km/h (m)', unit:' m', dec:0, color:'#F1C40F'},
@@ -1511,8 +1511,8 @@ function renderRanking(p){
 
     var fontColor = isLight ? '#06121E' : '#f8fafc';
     var tickColor = isLight ? '#334155' : '#94a3b8';
-    var barColorAbove = '#002B66';
-    var barColorBelow = isLight ? '#93c5fd' : '#002B6666';
+    var barColorAbove = '#2a3b60';
+    var barColorBelow = isLight ? '#93c5fd' : '#2a3b6066';
     var colors = chartLista.map(function(a){ return a[key] >= avg ? barColorAbove : barColorBelow; });
 
     var maxi = chartLista[0][key];
@@ -1886,7 +1886,7 @@ function renderInformeDetail(nombre, modo){
         headerMetrics +
 
         // 4 Gráficos semanales de a dos
-        '<div class="informe-section-title" style="margin:26px 0 12px;display:flex;align-items:center;gap:12px;background:linear-gradient(90deg, rgba(0, 43, 102,0.18) 0%, rgba(0, 43, 102,0.02) 100%);padding:10px 16px;border-left:5px solid var(--celeste);border-radius:6px">'+
+        '<div class="informe-section-title" style="margin:26px 0 12px;display:flex;align-items:center;gap:12px;background:linear-gradient(90deg, rgba(42, 59, 96,0.18) 0%, rgba(42, 59, 96,0.02) 100%);padding:10px 16px;border-left:5px solid var(--celeste);border-radius:6px">'+
           '<span style="background:var(--celeste);color:#ffffff;font-size:11px;font-weight:900;padding:3px 8px;border-radius:4px;letter-spacing:1px">SECCIÓN 1</span>'+
           '<span style="font-family:var(--font-head);letter-spacing:0.5px;color:#ffffff !important;font-weight:800;font-size:17px;text-transform:uppercase">Evolución semanal en entrenamientos</span>'+
         '</div>'+
@@ -1913,7 +1913,7 @@ function renderInformeDetail(nombre, modo){
         '</div>'+
 
         // Comparación con posiciones de las categorías (7 a 4) de a dos gráficos
-        '<div class="informe-section-title" style="margin:32px 0 12px;display:flex;align-items:center;gap:12px;background:linear-gradient(90deg, rgba(0, 43, 102,0.18) 0%, rgba(0, 43, 102,0.02) 100%);padding:10px 16px;border-left:5px solid var(--celeste);border-radius:6px">'+
+        '<div class="informe-section-title" style="margin:32px 0 12px;display:flex;align-items:center;gap:12px;background:linear-gradient(90deg, rgba(42, 59, 96,0.18) 0%, rgba(42, 59, 96,0.02) 100%);padding:10px 16px;border-left:5px solid var(--celeste);border-radius:6px">'+
           '<span style="background:var(--celeste);color:#ffffff;font-size:11px;font-weight:900;padding:3px 8px;border-radius:4px;letter-spacing:1px">SECCIÓN 2</span>'+
           '<span style="font-family:var(--font-head);letter-spacing:0.5px;color:#ffffff !important;font-weight:800;font-size:17px;text-transform:uppercase">Comparación con otras posiciones del plantel (7ma a 4ta)</span>'+
         '</div>'+
@@ -1953,7 +1953,7 @@ function renderInformeDetail(nombre, modo){
               '</tr>'+
             '</thead>'+
             '<tbody>'+
-              '<tr style="background:rgba(0, 43, 102,0.12);font-weight:800">'+
+              '<tr style="background:rgba(42, 59, 96,0.12);font-weight:800">'+
                 '<td style="text-align:left;color:var(--celeste)"><strong>' + nombre + ' (Jugador)</strong></td>'+
                 '<td>' + fmt(Math.round(jugAvg.dist)) + '</td>'+
                 '<td>' + fmt(Math.round(jugAvg.z1618)) + '</td>'+
@@ -1998,7 +1998,7 @@ function renderInformeDetail(nombre, modo){
           datasets: [{
             label: 'Carga semanal (m)',
             data: semCargas,
-            backgroundColor: '#002B66',
+            backgroundColor: '#2a3b60',
             borderRadius: 4,
             datalabels: { color: cT(), font: { size: 10, weight: 'bold' }, anchor: 'end', align: 'top', offset: 2, formatter: function(v){ return fmt(Math.round(v)); } }
           }]
@@ -2098,7 +2098,7 @@ function renderInformeDetail(nombre, modo){
         'drel': {
           title: 'Distancia relativa media (m/min)',
           label: 'Distancia Relativa',
-          col: '#002B66',
+          col: '#2a3b60',
           unit: ' m/min',
           vals: semKeys.map(function(k){
             var o = semanasJugMap[k];
@@ -2240,7 +2240,7 @@ function renderInformeDetail(nombre, modo){
             maxBarThickness: 32,
             datalabels: {
               color: function(ctx){ return ctx.dataIndex === 0 ? '#FFFFFF' : cT(); },
-              backgroundColor: function(ctx){ return ctx.dataIndex === 0 ? 'rgba(0, 43, 102, 0.95)' : 'transparent'; },
+              backgroundColor: function(ctx){ return ctx.dataIndex === 0 ? 'rgba(42, 59, 96, 0.95)' : 'transparent'; },
               borderColor: function(ctx){ return ctx.dataIndex === 0 ? '#FFFFFF' : 'transparent'; },
               borderWidth: function(ctx){ return ctx.dataIndex === 0 ? 1.5 : 0; },
               borderRadius: 4,
@@ -2300,7 +2300,7 @@ function renderInformeDetail(nombre, modo){
       var cfg = mapVar[vKey] || mapVar['drel'];
       if(charts.infPosCustom) { try { charts.infPosCustom.destroy(); } catch(e){} }
       var vals = [Math.round(cfg.jugV)].concat(puestosOrden.map(function(po){ return Math.round(avgArr(posStats[po][cfg.posK])); }));
-      var bgCols = vals.map(function(v, i){ return i === 0 ? '#002B66' : cfg.col; });
+      var bgCols = vals.map(function(v, i){ return i === 0 ? '#2a3b60' : cfg.col; });
       var maxV = Math.max.apply(null, vals) || 10;
 
       charts.infPosCustom = new Chart(cv.getContext('2d'), {
@@ -2485,8 +2485,8 @@ function renderInformeDetail(nombre, modo){
       var mKey = sel ? sel.value : 'dist';
 
       var chartDefs = {
-        'dist': { label: 'Distancia (m)', unit: ' m', col: '#002B66', fn: function(p){ return Math.round(p.dist); } },
-        'drel': { label: 'Distancia relativa (m/min)', unit: ' m/min', col: '#003882', fn: function(p){ return Math.round(p.drel); } },
+        'dist': { label: 'Distancia (m)', unit: ' m', col: '#2a3b60', fn: function(p){ return Math.round(p.dist); } },
+        'drel': { label: 'Distancia relativa (m/min)', unit: ' m/min', col: '#384e7f', fn: function(p){ return Math.round(p.drel); } },
         'z1625': { label: '16 a 25 km/h (m)', unit: ' m', col: '#10B981', fn: function(p){ return Math.round(p.z1618 + p.z1825); } },
         's25': { label: 'Más de 25 km/h (m)', unit: ' m', col: '#F59E0B', fn: function(p){ return Math.round(p.s25); } },
         'tension': { label: 'Acc + Dec > 2,5', unit: '', col: '#EC4899', fn: function(p){ return Math.round(p.acc + p.dec); } },
@@ -3471,7 +3471,7 @@ function renderEquipoDetail(fecha,minMin){
     '<div style="font-size:12.5px;color:var(--text);font-weight:600">'+
       'Resumen colectivo del partido: métricas medias, líderes del encuentro y tabla completa.'+
     '</div>'+
-    '<button onclick="exportarPDF(\'Equipo '+fecha+'\')" style="background:var(--celeste);color:#ffffff;border:none;padding:9px 18px;border-radius:8px;font-family:var(--font-head);font-weight:800;font-size:12.5px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(0, 43, 102,0.35)">'+
+    '<button onclick="exportarPDF(\'Equipo '+fecha+'\')" style="background:var(--celeste);color:#ffffff;border:none;padding:9px 18px;border-radius:8px;font-family:var(--font-head);font-weight:800;font-size:12.5px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(42, 59, 96,0.35)">'+
       '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>'+
       'Exportar Informe de Partido (PDF)'+
     '</button>'+
@@ -4308,7 +4308,7 @@ function renderMeso(p){
         '<button type="button" class="btn-meso-dim" id="btnMesoTension">TENSIÓN (ACC + DEC > 2,5)</button>'+
         '<button type="button" class="btn-meso-dim" id="btnMesoVel">VELOCIDAD (> 25 KM/H)</button>'+
       '</div>'+
-      '<button type="button" onclick="window.exportarMesoSolo()" class="btn-pdf-meso" style="background:var(--celeste);color:#ffffff;border:none;padding:9px 18px;border-radius:8px;font-family:var(--font-head);font-weight:800;font-size:12px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(0, 43, 102,0.3)">'+
+      '<button type="button" onclick="window.exportarMesoSolo()" class="btn-pdf-meso" style="background:var(--celeste);color:#ffffff;border:none;padding:9px 18px;border-radius:8px;font-family:var(--font-head);font-weight:800;font-size:12px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;box-shadow:0 2px 8px rgba(42, 59, 96,0.3)">'+
         '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>'+
         'Exportar Mesociclo (PDF)'+
       '</button>'+
@@ -4413,7 +4413,7 @@ function renderMeso(p){
     var tabla='<div class="card" style="overflow-x:auto"><table class="data planilla-tbl"><thead><tr><th style="text-align:left">Mesociclo</th><th>Período de fechas</th><th>Entrenamientos</th><th>'+dim.label+'</th></tr></thead><tbody>'+
       mesos.map(function(block,i){
         var isUlt = (i === mesos.length - 1);
-        var trSt = isUlt ? 'style="background:rgba(0, 43, 102,0.08);font-weight:700"' : '';
+        var trSt = isUlt ? 'style="background:rgba(42, 59, 96,0.08);font-weight:700"' : '';
         return '<tr '+trSt+'><td style="text-align:left"><strong>'+labels[i]+(isUlt?' (Último)':'')+'</strong></td><td>'+meta[i].rango+'</td><td>'+meta[i].nSes+'</td><td>'+fmt(Math.round(vals[i]))+dim.unit+'</td></tr>';
       }).join('')+'</tbody></table></div>';
 
@@ -4435,12 +4435,12 @@ function renderMeso(p){
         datasets:[{
           label:dim.label,
           data:vals,
-          borderColor:'#002B66',
-          backgroundColor:'#002B6622',
+          borderColor:'#2a3b60',
+          backgroundColor:'#2a3b6022',
           fill:true,
           tension:.3,
           pointRadius:6,
-          pointBackgroundColor:'#002B66'
+          pointBackgroundColor:'#2a3b60'
         }]
       },
       options:{
@@ -4459,7 +4459,7 @@ function renderMeso(p){
       }
     });
 
-    var cols=vals.map(function(v, i){return (i === vals.length - 1) ? '#002B66' : (v>=promedio?'#5BA3DE':'#94A3B8');});
+    var cols=vals.map(function(v, i){return (i === vals.length - 1) ? '#2a3b60' : (v>=promedio?'#5BA3DE':'#94A3B8');});
     charts.msB=new Chart(document.getElementById('msBar').getContext('2d'),{
       plugins:[ChartDataLabels],
       type:'bar',
@@ -4509,7 +4509,7 @@ function renderMesoMdComparativa(container) {
 
   var CATS = ['Cuarta', 'Quinta', 'Sexta', 'Séptima', 'Octava', 'Novena'];
   var CAT_COLORS = {
-    'Cuarta': '#002B66',
+    'Cuarta': '#2a3b60',
     'Quinta': '#10B981',
     'Sexta': '#F59E0B',
     'Séptima': '#8B5CF6',
@@ -4602,7 +4602,7 @@ function renderMesoMdComparativa(container) {
 
       '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap" id="mesoCatPillsContainer">' +
         CATS.map(function(c) {
-          var col = CAT_COLORS[c] || '#002B66';
+          var col = CAT_COLORS[c] || '#2a3b60';
           return '<button type="button" class="btn-meso-cat-pill active" data-cat="' + c + '" style="background:' + col + ';border-color:' + col + '">' +
             c +
           '</button>';
@@ -4619,7 +4619,7 @@ function renderMesoMdComparativa(container) {
       '</div>' +
     '</div>' +
 
-    '<div id="mesoCompLoadingIndicator" style="display:none;background:rgba(0, 43, 102,0.12);border:1px solid var(--celeste);color:var(--celeste);padding:10px 14px;border-radius:8px;font-size:12px;font-weight:700;margin-bottom:14px"></div>' +
+    '<div id="mesoCompLoadingIndicator" style="display:none;background:rgba(42, 59, 96,0.12);border:1px solid var(--celeste);color:var(--celeste);padding:10px 14px;border-radius:8px;font-size:12px;font-weight:700;margin-bottom:14px"></div>' +
     '<div class="meso-comp-print-meta print-comp-meta" id="mesoCompPrintMeta" style="display:none"></div>' +
 
     '<div class="card meso-comp-chart-card" style="padding:16px;margin-bottom:16px">' +
@@ -4639,7 +4639,7 @@ function renderMesoMdComparativa(container) {
     pills.forEach(function(btn) {
       var cat = btn.getAttribute('data-cat');
       var isAct = activeCats.has(cat);
-      var col = CAT_COLORS[cat] || '#002B66';
+      var col = CAT_COLORS[cat] || '#2a3b60';
       btn.classList.toggle('active', isAct);
       btn.classList.toggle('inactive', !isAct);
       if (isAct) {
@@ -4726,7 +4726,7 @@ function renderMesoMdComparativa(container) {
     // Datasets para Chart.js
     var allVals = [];
     var datasets = catsToDraw.map(function(cat) {
-      var col = CAT_COLORS[cat] || '#002B66';
+      var col = CAT_COLORS[cat] || '#2a3b60';
       var dataVals = targetMDs.map(function(md) {
         var v = matrix[md][cat] ? matrix[md][cat].val : 0;
         if (v > 0) allVals.push(v);
@@ -4826,7 +4826,7 @@ function renderMesoMdComparativa(container) {
       var thead = '<thead><tr>' +
         '<th style="text-align:left">Día de Microciclo</th>' +
         catsToDraw.map(function(c) {
-          var col = CAT_COLORS[c] || '#002B66';
+          var col = CAT_COLORS[c] || '#2a3b60';
           return '<th style="text-align:center;color:' + col + '">' + c + '</th>';
         }).join('') +
         '<th style="text-align:center;font-weight:800">Promedio General</th>' +
@@ -4863,7 +4863,7 @@ function renderMesoMdComparativa(container) {
         var cells = catsToDraw.map(function(c) {
           var v = matrix[md][c] ? matrix[md][c].val : 0;
           var isTop = (v > 0 && v === maxInRow);
-          var cellStyle = isTop ? 'style="font-weight:800;color:var(--celeste);background:rgba(0, 43, 102,0.08)"' : '';
+          var cellStyle = isTop ? 'style="font-weight:800;color:var(--celeste);background:rgba(42, 59, 96,0.08)"' : '';
           var displayV = v > 0 ? ((varDef.dec > 0 ? (Math.round(v * 10) / 10) : fmt(Math.round(v))) + varDef.unit) : '—';
           return '<td style="text-align:center" ' + cellStyle + '>' + displayV + '</td>';
         }).join('');
@@ -5517,14 +5517,14 @@ function renderSesion(p){
       if(!cv) return;
       if(charts.ses) { try{charts.ses.destroy();}catch(e){} }
 
-      var metTitle = '', metDec = 0, metUnit = '', metCol = '#002B66';
+      var metTitle = '', metDec = 0, metUnit = '', metCol = '#2a3b60';
       function getVal(j){
         if(k === 'accDec') return (j.acc||0) + (j.dec||0);
         return j[k] || 0;
       }
 
       if(k === 'dist'){
-        metTitle = 'Distancia total (m)'; metDec = 0; metUnit = ' m'; metCol = '#002B66';
+        metTitle = 'Distancia total (m)'; metDec = 0; metUnit = ' m'; metCol = '#2a3b60';
       } else if(k === 'accDec'){
         metTitle = 'Acc + Dec (>2,5 m/s) sumadas'; metDec = 0; metUnit = ''; metCol = '#EC4899';
       } else if(k === 's25'){
@@ -5533,7 +5533,7 @@ function renderSesion(p){
         metTitle = 'Velocidad máxima (km/h)'; metDec = 1; metUnit = ' km/h'; metCol = '#EAB308';
       } else {
         var found = mets.filter(function(m){ return m.key === k; })[0] || mets[0];
-        metTitle = found.full; metDec = found.dec; metUnit = found.unit || ''; metCol = '#002B66';
+        metTitle = found.full; metDec = found.dec; metUnit = found.unit || ''; metCol = '#2a3b60';
       }
 
       var sorted = js.slice().sort(function(a,b){ return getVal(b) - getVal(a); });
@@ -5799,10 +5799,10 @@ function renderMicroMD(p){
     if(actual==null) return {bg:'transparent', txt: textMuted};
     if(n<3 || sigma===0) return {bg:'transparent', txt: textBlack};
     var z = Math.abs(actual-mu)/sigma;
-    if(z<0.5) return {bg: isLight ? 'rgba(0, 43, 102,0.10)' : 'rgba(91,163,222,0.10)', txt: textBlack};
-    if(z<1.0) return {bg: isLight ? 'rgba(0, 43, 102,0.20)' : 'rgba(91,163,222,0.30)', txt: textBlack};
-    if(z<1.5) return {bg: isLight ? 'rgba(0, 43, 102,0.35)' : 'rgba(91,163,222,0.55)', txt: isLight ? '#000000' : '#06121E'};
-    return       {bg: isLight ? 'rgba(0, 43, 102,0.50)' : 'rgba(91,163,222,0.85)', txt: isLight ? '#000000' : '#06121E'};
+    if(z<0.5) return {bg: isLight ? 'rgba(42, 59, 96,0.10)' : 'rgba(91,163,222,0.10)', txt: textBlack};
+    if(z<1.0) return {bg: isLight ? 'rgba(42, 59, 96,0.20)' : 'rgba(91,163,222,0.30)', txt: textBlack};
+    if(z<1.5) return {bg: isLight ? 'rgba(42, 59, 96,0.35)' : 'rgba(91,163,222,0.55)', txt: isLight ? '#000000' : '#06121E'};
+    return       {bg: isLight ? 'rgba(42, 59, 96,0.50)' : 'rgba(91,163,222,0.85)', txt: isLight ? '#000000' : '#06121E'};
   }
   function fmtN(v){ if(v==null||isNaN(v)) return '\u2014'; return Math.round(v).toLocaleString('es-AR'); }
   function fmtD(v,d){ if(v==null||isNaN(v)) return '\u2014'; return v.toFixed(d).replace('.',','); }

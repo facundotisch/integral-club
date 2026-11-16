@@ -616,7 +616,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                 Panel DT & PF · Control de Wellness
               </h1>
               <span style={{
-                background: '#002B66',
+                background: '#2a3b60',
                 color: '#fff',
                 fontSize: '10.5px',
                 fontWeight: 800,
@@ -629,8 +629,8 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
             
             {/* FECHA DEL DÍA */}
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginTop: '4px' }}>
-              <Calendar size={13} color="#002B66" />
-              <span style={{ fontSize: '12.5px', fontWeight: 800, color: '#002B66' }}>
+              <Calendar size={13} color="#2a3b60" />
+              <span style={{ fontSize: '12.5px', fontWeight: 800, color: '#2a3b60' }}>
                 {fechaHoyStr}
               </span>
             </div>
@@ -654,7 +654,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
               }
             }}
             style={{
-              background: mostrarFormManual ? '#0f172a' : '#002B66',
+              background: mostrarFormManual ? '#0f172a' : '#2a3b60',
               border: 'none',
               color: '#ffffff',
               padding: '8px 14px',
@@ -719,7 +719,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
       {mostrarFormManual && (
         <form onSubmit={handleGuardarManual} style={{
           background: 'var(--card, #ffffff)',
-          border: registroEditandoId ? '2px solid #f59e0b' : '2px solid #002B66',
+          border: registroEditandoId ? '2px solid #f59e0b' : '2px solid #2a3b60',
           borderRadius: '16px',
           padding: '18px 20px',
           marginBottom: '20px',
@@ -730,7 +730,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
             <div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                <h2 style={{ fontSize: '16px', fontWeight: 900, margin: 0, color: registroEditandoId ? '#d97706' : '#002B66' }}>
+                <h2 style={{ fontSize: '16px', fontWeight: 900, margin: 0, color: registroEditandoId ? '#d97706' : '#2a3b60' }}>
                   {registroEditandoId ? `Modificar Evaluación: ${manualNombre}` : 'Nueva Evaluación Manual Rápida'}
                 </h2>
                 {registroEditandoId && (
@@ -841,7 +841,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                       onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; }}
                     >
                       <span style={{ fontWeight: 800 }}>{s.displayName}</span>
-                      <span style={{ color: '#002B66', fontSize: '11px' }}>{s.primaryCat} · {s.pos}</span>
+                      <span style={{ color: '#2a3b60', fontSize: '11px' }}>{s.primaryCat} · {s.pos}</span>
                     </div>
                   ))}
                 </div>
@@ -969,7 +969,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
             <button
               type="submit"
               style={{
-                background: registroEditandoId ? '#d97706' : '#002B66',
+                background: registroEditandoId ? '#d97706' : '#2a3b60',
                 border: 'none',
                 color: '#ffffff',
                 padding: '9px 20px',
@@ -1001,17 +1001,17 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
           onClick={() => setVistaEstado('respondieron')}
           style={{
             background: 'var(--card, #ffffff)',
-            border: vistaEstado === 'respondieron' ? '2px solid #002B66' : '1px solid var(--border-color, #e2e8f0)',
+            border: vistaEstado === 'respondieron' ? '2px solid #2a3b60' : '1px solid var(--border-color, #e2e8f0)',
             borderRadius: '14px',
             padding: '14px 16px',
             cursor: 'pointer',
             transition: 'all 0.15s ease'
           }}
         >
-          <div style={{ fontSize: '11.5px', color: '#002B66', fontWeight: 800, textTransform: 'uppercase' }}>
+          <div style={{ fontSize: '11.5px', color: '#2a3b60', fontWeight: 800, textTransform: 'uppercase' }}>
             Completaron
           </div>
-          <div style={{ fontSize: '26px', fontWeight: 900, color: '#002B66', marginTop: '4px' }}>
+          <div style={{ fontSize: '26px', fontWeight: 900, color: '#2a3b60', marginTop: '4px' }}>
             {stats.totalRespondieron}
           </div>
           <div style={{ fontSize: '11px', color: 'var(--muted, #94a3b8)', marginTop: '2px' }}>
@@ -1116,7 +1116,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
               borderRadius: '8px',
               fontSize: '11.5px',
               fontWeight: filtroFecha === 'hoy' ? 800 : 600,
-              background: filtroFecha === 'hoy' ? '#002B66' : 'var(--btn-bg, #f1f5f9)',
+              background: filtroFecha === 'hoy' ? '#2a3b60' : 'var(--btn-bg, #f1f5f9)',
               color: filtroFecha === 'hoy' ? '#ffffff' : 'var(--text-muted, #475569)',
               border: 'none',
               cursor: 'pointer'
@@ -1133,7 +1133,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
               borderRadius: '8px',
               fontSize: '11.5px',
               fontWeight: filtroFecha === 'todas' ? 800 : 600,
-              background: filtroFecha === 'todas' ? '#002B66' : 'var(--btn-bg, #f1f5f9)',
+              background: filtroFecha === 'todas' ? '#2a3b60' : 'var(--btn-bg, #f1f5f9)',
               color: filtroFecha === 'todas' ? '#ffffff' : 'var(--text-muted, #475569)',
               border: 'none',
               cursor: 'pointer'
@@ -1200,7 +1200,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
               borderRadius: '8px',
               fontSize: '11.5px',
               fontWeight: vistaEstado === 'respondieron' ? 800 : 600,
-              background: vistaEstado === 'respondieron' ? '#002B66' : 'var(--btn-bg, #f1f5f9)',
+              background: vistaEstado === 'respondieron' ? '#2a3b60' : 'var(--btn-bg, #f1f5f9)',
               color: vistaEstado === 'respondieron' ? '#ffffff' : 'var(--text-muted, #475569)',
               border: 'none',
               cursor: 'pointer'
@@ -1257,7 +1257,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                   borderRadius: '16px',
                   fontSize: '11.5px',
                   fontWeight: catFiltro === cat ? 800 : 600,
-                  background: catFiltro === cat ? '#002B66' : 'var(--btn-bg, #f1f5f9)',
+                  background: catFiltro === cat ? '#2a3b60' : 'var(--btn-bg, #f1f5f9)',
                   color: catFiltro === cat ? '#ffffff' : 'var(--text-muted, #64748b)',
                   border: 'none',
                   cursor: 'pointer',
@@ -1364,7 +1364,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                           </div>
                         </td>
 
-                        <td style={{ padding: '10px 8px', color: '#002B66', fontWeight: 700 }}>
+                        <td style={{ padding: '10px 8px', color: '#2a3b60', fontWeight: 700 }}>
                           {p.primaryCat}
                         </td>
 
@@ -1391,7 +1391,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                               type="button"
                               onClick={() => handleIniciarCargaPendiente(p)}
                               style={{
-                                background: '#002B66',
+                                background: '#2a3b60',
                                 color: '#ffffff',
                                 border: 'none',
                                 padding: '6px 12px',
@@ -1453,7 +1453,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                   type="button"
                   onClick={handleCargarDemo}
                   style={{
-                    background: '#002B66',
+                    background: '#2a3b60',
                     color: '#fff',
                     border: 'none',
                     padding: '8px 16px',
@@ -1531,7 +1531,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                                   width: '30px',
                                   height: '30px',
                                   borderRadius: '50%',
-                                  background: '#002B66',
+                                  background: '#2a3b60',
                                   color: '#fff',
                                   display: 'flex',
                                   alignItems: 'center',
@@ -1546,7 +1546,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                                 <div style={{ fontWeight: 800, color: 'var(--text, #0f172a)' }}>
                                   {r.jugador.nombre}
                                 </div>
-                                <div style={{ fontSize: '10.5px', color: '#002B66', fontWeight: 600 }}>
+                                <div style={{ fontSize: '10.5px', color: '#2a3b60', fontWeight: 600 }}>
                                   {r.jugador.categoria} {r.jugador.posicion ? `· ${r.jugador.posicion}` : ''}
                                 </div>
                               </div>
@@ -1682,7 +1682,7 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
                                 style={{
                                   background: 'var(--btn-bg, #f1f5f9)',
                                   border: '1px solid var(--border-color, #cbd5e1)',
-                                  color: '#002B66',
+                                  color: '#2a3b60',
                                   padding: '5px 8px',
                                   borderRadius: '6px',
                                   cursor: 'pointer',
@@ -1734,8 +1734,8 @@ export default function WellnessAdminPanel({ onVolverCuestionario }) {
             onClick={handleCargarDemo}
             style={{
               background: 'transparent',
-              border: '1px dashed #002B66',
-              color: '#002B66',
+              border: '1px dashed #2a3b60',
+              color: '#2a3b60',
               padding: '6px 12px',
               borderRadius: '8px',
               fontSize: '11.5px',

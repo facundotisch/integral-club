@@ -26,8 +26,8 @@ function ModuleFallback({ nombre = 'Módulo' }) {
         style={{
           width: '40px',
           height: '40px',
-          border: '3px solid rgba(0, 43, 102, 0.18)',
-          borderTopColor: '#002B66',
+          border: '3px solid rgba(42, 59, 96, 0.18)',
+          borderTopColor: '#2a3b60',
           borderRadius: '50%',
           animation: 'spinAnim 0.9s linear infinite'
         }} 

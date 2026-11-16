@@ -759,7 +759,7 @@ export default function CompararPuestoPartidoPanel({ data, catActual, categorias
     const values = sorted.map(r => r[metricaActiva] || 0);
 
     const bgColors = sorted.map(r => {
-      if (r.isPlayer) return '#002B66';
+      if (r.isPlayer) return '#2a3b60';
       return tema === 'oscuro' ? '#475569' : '#64748b';
     });
 
@@ -823,7 +823,7 @@ export default function CompararPuestoPartidoPanel({ data, catActual, categorias
             ticks: {
               color: (ctx) => {
                 const label = labels[ctx.index] || '';
-                return label.startsWith('★') ? '#002B66' : (tema === 'oscuro' ? '#e2e8f0' : '#334155');
+                return label.startsWith('★') ? '#2a3b60' : (tema === 'oscuro' ? '#e2e8f0' : '#334155');
               },
               font: (ctx) => {
                 const label = labels[ctx.index] || '';
@@ -1221,7 +1221,7 @@ export default function CompararPuestoPartidoPanel({ data, catActual, categorias
                         type="button"
                         onClick={handleSelectAllMatches}
                         className="cpp-link-reinclude"
-                        style={{ textDecoration: 'underline', background: 'none', border: 'none', color: '#002B66', cursor: 'pointer', fontWeight: 700 }}
+                        style={{ textDecoration: 'underline', background: 'none', border: 'none', color: '#2a3b60', cursor: 'pointer', fontWeight: 700 }}
                       >
                         Seleccionar todos los partidos
                       </button>{' '}
@@ -1271,7 +1271,7 @@ export default function CompararPuestoPartidoPanel({ data, catActual, categorias
             <Calendar size={16} />
             <span>
               Partidos disponibles ({partidosFiltrados.length}) ·{' '}
-              <strong style={{ color: '#002B66' }}>
+              <strong style={{ color: '#2a3b60' }}>
                 {consolidatedMatches.length} {consolidatedMatches.length === 1 ? 'seleccionado' : 'seleccionados'}
               </strong>
             </span>

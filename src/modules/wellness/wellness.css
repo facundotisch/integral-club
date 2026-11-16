@@ -33,7 +33,7 @@ body.tema-oscuro .wellness-mobile-wrapper {
   padding: 10px 16px;
   background: var(--topbar-bg, #ffffff);
   color: var(--topbar-text, #0f172a);
-  border-bottom: 2px solid var(--topbar-border, #002B66);
+  border-bottom: 2px solid var(--topbar-border, #2a3b60);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
   box-sizing: border-box;
   transition: background 0.3s ease, color 0.3s ease;
@@ -67,12 +67,12 @@ body.tema-oscuro .wellness-mobile-wrapper {
 .wellness-topbar-badge {
   font-family: var(--font-head, 'Plus Jakarta Sans', sans-serif);
   font-weight: 700;
-  color: #002B66;
+  color: #2a3b60;
   font-size: 11px;
   padding: 3px 9px;
   border-radius: 8px;
-  background: rgba(0, 43, 102, 0.1);
-  border: 1px solid rgba(0, 43, 102, 0.3);
+  background: rgba(42, 59, 96, 0.1);
+  border: 1px solid rgba(42, 59, 96, 0.3);
   letter-spacing: 0.3px;
   white-space: nowrap;
 }
@@ -108,7 +108,7 @@ body.tema-oscuro .wellness-mobile-wrapper {
 
 body.tema-oscuro .wellness-hero-banner {
   background: linear-gradient(180deg, #0f172a 0%, #020617 100%);
-  border-bottom: 1px solid rgba(0, 43, 102, 0.3);
+  border-bottom: 1px solid rgba(42, 59, 96, 0.3);
 }
 
 .wellness-hero-escudo-wrap {
@@ -134,8 +134,8 @@ body.tema-oscuro .wellness-hero-banner {
 }
 
 body.tema-oscuro .wellness-hero-date-badge {
-  background: rgba(0, 43, 102, 0.15);
-  border-color: rgba(0, 43, 102, 0.3);
+  background: rgba(42, 59, 96, 0.15);
+  border-color: rgba(42, 59, 96, 0.3);
   color: #38bdf8;
 }
 
@@ -160,7 +160,7 @@ body.tema-oscuro .wellness-hero-date-badge {
 }
 
 body.tema-oscuro .wellness-hero-escudo {
-  filter: drop-shadow(0 4px 12px rgba(0, 43, 102, 0.5));
+  filter: drop-shadow(0 4px 12px rgba(42, 59, 96, 0.5));
 }
 
 .wellness-hero-title {
@@ -204,7 +204,7 @@ body.tema-oscuro .wellness-hero-sub {
   border-radius: 20px;
   padding: 22px 18px;
   border: 1px solid var(--border-card, #bae6fd);
-  box-shadow: 0 8px 24px rgba(0, 43, 102, 0.08);
+  box-shadow: 0 8px 24px rgba(42, 59, 96, 0.08);
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -233,9 +233,9 @@ body.tema-oscuro .wellness-login-card {
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  color: #002B66;
-  background: rgba(0, 43, 102, 0.08);
-  border: 1px solid rgba(0, 43, 102, 0.25);
+  color: #2a3b60;
+  background: rgba(42, 59, 96, 0.08);
+  border: 1px solid rgba(42, 59, 96, 0.25);
   padding: 4px 12px;
   border-radius: 20px;
 }
@@ -335,8 +335,8 @@ body.tema-oscuro .wellness-login-input {
 }
 
 .wellness-login-input:focus {
-  border-color: #002B66;
-  box-shadow: 0 0 0 3px rgba(0, 43, 102, 0.18);
+  border-color: #2a3b60;
+  box-shadow: 0 0 0 3px rgba(42, 59, 96, 0.18);
 }
 
 .wellness-remember-check {
@@ -364,7 +364,7 @@ body.tema-oscuro .wellness-demo-section {
 .wellness-demo-title {
   font-size: 11.5px;
   font-weight: 800;
-  color: #002B66;
+  color: #2a3b60;
   text-align: center;
   margin-bottom: 10px;
 }
@@ -382,7 +382,7 @@ body.tema-oscuro .wellness-demo-section {
   padding: 9px 12px;
   border-radius: 12px;
   background: var(--btn-bg, #f0f9ff);
-  border: 1px solid rgba(0, 43, 102, 0.25);
+  border: 1px solid rgba(42, 59, 96, 0.25);
   cursor: pointer;
   text-align: left;
   transition: all 0.15s ease;
@@ -390,14 +390,14 @@ body.tema-oscuro .wellness-demo-section {
 
 body.tema-oscuro .wellness-demo-chip {
   background: #0b192e;
-  border-color: rgba(0, 43, 102, 0.3);
+  border-color: rgba(42, 59, 96, 0.3);
 }
 
 .wellness-demo-chip:hover,
 .wellness-demo-chip:active {
-  background: rgba(0, 43, 102, 0.15);
+  background: rgba(42, 59, 96, 0.15);
   transform: translateY(-1px);
-  border-color: #002B66;
+  border-color: #2a3b60;
 }
 
 .wellness-demo-chip-name {
@@ -413,7 +413,7 @@ body.tema-oscuro .wellness-demo-chip-name {
 .wellness-demo-chip-cat {
   font-size: 10.5px;
   font-weight: 700;
-  color: #002B66;
+  color: #2a3b60;
 }
 
 /* ─── 5. Card del Jugador / Identificación Conectada ─── */
@@ -448,7 +448,7 @@ body.tema-oscuro .wellness-player-card {
   height: 44px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #002B66;
+  border: 2px solid #2a3b60;
   background: #f1f5f9;
   flex-shrink: 0;
 }
@@ -457,7 +457,7 @@ body.tema-oscuro .wellness-player-card {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #002B66 0%, #0055a5 100%);
+  background: linear-gradient(135deg, #2a3b60 0%, #0055a5 100%);
   color: #ffffff;
   font-weight: 900;
   font-size: 16px;
@@ -465,7 +465,7 @@ body.tema-oscuro .wellness-player-card {
   align-items: center;
   justify-content: center;
   border: 2px solid #ffffff;
-  box-shadow: 0 4px 12px rgba(0, 43, 102, 0.25);
+  box-shadow: 0 4px 12px rgba(42, 59, 96, 0.25);
   flex-shrink: 0;
 }
 
@@ -485,7 +485,7 @@ body.tema-oscuro .wellness-player-name {
 
 .wellness-player-cat {
   font-size: 11px;
-  color: #002B66;
+  color: #2a3b60;
   margin: 0;
   font-weight: 700;
 }
@@ -550,7 +550,7 @@ body.tema-oscuro .wellness-slider-card {
   height: 30px;
   border-radius: 50%;
   background: #ffffff;
-  border: 3px solid #002B66;
+  border: 3px solid #2a3b60;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
   cursor: grab;
   transition: transform 0.12s ease;
@@ -566,7 +566,7 @@ body.tema-oscuro .wellness-slider-card {
   height: 28px;
   border-radius: 50%;
   background: #ffffff;
-  border: 3px solid #002B66;
+  border: 3px solid #2a3b60;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
   cursor: grab;
 }
@@ -592,8 +592,8 @@ body.tema-oscuro .wellness-bodymap-card {
   width: 100%;
   padding: 16px 20px;
   border-radius: 14px;
-  border: 1px solid #002B66;
-  background: #002B66;
+  border: 1px solid #2a3b60;
+  background: #2a3b60;
   color: #ffffff;
   font-size: 15px;
   font-weight: 800;
@@ -610,8 +610,8 @@ body.tema-oscuro .wellness-bodymap-card {
 }
 
 .wellness-btn-submit:hover {
-  background: #003882;
-  border-color: #003882;
+  background: #384e7f;
+  border-color: #384e7f;
 }
 
 .wellness-btn-submit:active {

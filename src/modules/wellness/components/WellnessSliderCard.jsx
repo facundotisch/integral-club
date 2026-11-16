@@ -71,8 +71,8 @@ export default function WellnessSliderCard({
               width: '32px',
               height: '32px',
               borderRadius: '8px',
-              background: 'rgba(0, 43, 102, 0.1)',
-              color: '#002B66',
+              background: 'rgba(42, 59, 96, 0.1)',
+              color: '#2a3b60',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center'

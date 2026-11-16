@@ -182,14 +182,21 @@ export default function HubModule({
 
                 <button
                   type="button"
-                  className="hub-btn-item"
-                  onClick={() => onSelectModulo('fatiga')}
+                  className="hub-btn-item hub-btn-item-dev"
+                  onClick={() => {
+                    setAviso('El módulo de Control de fatiga se encuentra en etapa de desarrollo.');
+                    setTimeout(() => setAviso(null), 3500);
+                  }}
                   style={{ minWidth: '240px', maxWidth: '270px' }}
+                  title="Control de fatiga (En desarrollo)"
                 >
                   <div className="hub-btn-icon-box" style={{ background: 'rgba(244, 63, 94, 0.12)', color: '#f43f5e' }}>
                     <HeartPulse size={22} className="hub-btn-icon" />
                   </div>
-                  <span className="hub-btn-label">Control de fatiga</span>
+                  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', flex: 1, minWidth: 0 }}>
+                    <span className="hub-btn-label" style={{ fontSize: '13.5px' }}>Control de fatiga</span>
+                    <span style={{ fontSize: '10.5px', color: 'var(--amber, #b45309)', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.4px' }}>En desarrollo</span>
+                  </div>
                   <ChevronRight size={17} className="hub-btn-chevron" />
                 </button>
               </div>

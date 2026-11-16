@@ -341,8 +341,8 @@ function SvgLineChart({
         >
           <defs>
             <linearGradient id={gradId} x1="0%" y1="0%" x2="0%" y2="100%">
-              <stop offset="0%" stopColor="#002B66" stopOpacity="0.25" />
-              <stop offset="100%" stopColor="#002B66" stopOpacity="0.01" />
+              <stop offset="0%" stopColor="#2a3b60" stopOpacity="0.25" />
+              <stop offset="100%" stopColor="#2a3b60" stopOpacity="0.01" />
             </linearGradient>
           </defs>
 
@@ -382,7 +382,7 @@ function SvgLineChart({
             <path
               d={catPathD}
               fill="none"
-              stroke="#002B66"
+              stroke="#2a3b60"
               strokeWidth="2.5"
               strokeLinecap="round"
               strokeLinejoin="round"
@@ -410,7 +410,7 @@ function SvgLineChart({
                   cx={p.x}
                   cy={p.y}
                   r={isHovered ? 4.5 : 2.8}
-                  fill="#002B66"
+                  fill="#2a3b60"
                   stroke="#ffffff"
                   strokeWidth="1.5"
                   className="inf-point-circle"
@@ -423,7 +423,7 @@ function SvgLineChart({
             <path
               d={playerPathD}
               fill="none"
-              stroke="#003882"
+              stroke="#384e7f"
               strokeWidth="2.6"
               strokeLinecap="round"
               strokeLinejoin="round"
@@ -441,7 +441,7 @@ function SvgLineChart({
                     cx={p.x}
                     cy={p.y}
                     r={isHovered ? 5.5 : isPeak ? 4.2 : 3.2}
-                    fill={isPeak ? '#003882' : '#002B66'}
+                    fill={isPeak ? '#384e7f' : '#2a3b60'}
                     stroke="#ffffff"
                     strokeWidth={isPeak ? '2' : '1.5'}
                     className="inf-point-circle"
@@ -450,7 +450,7 @@ function SvgLineChart({
                     <text
                       x={p.x}
                       y={p.y - 7}
-                      fill="#003882"
+                      fill="#384e7f"
                       fontSize="8"
                       fontWeight="700"
                       textAnchor="middle"
@@ -491,7 +491,7 @@ function SvgLineChart({
                   y1={yTick}
                   x2={x}
                   y2={yTick + 4}
-                  stroke={isHovered ? '#002B66' : '#cbd5e1'}
+                  stroke={isHovered ? '#2a3b60' : '#cbd5e1'}
                   strokeWidth={isHovered ? '1.5' : '1'}
                 />
 
@@ -502,7 +502,7 @@ function SvgLineChart({
                     y="0"
                     transform="rotate(-50)"
                     textAnchor="end"
-                    fill={isHovered ? '#002B66' : '#475569'}
+                    fill={isHovered ? '#2a3b60' : '#475569'}
                     fontSize="7.8"
                     fontWeight={isHovered ? '800' : '600'}
                     letterSpacing="-0.2px"
@@ -523,7 +523,7 @@ function SvgLineChart({
                 y1={padTop}
                 x2={getX(hoveredIdx)}
                 y2={padTop + plotH}
-                stroke="#002B66"
+                stroke="#2a3b60"
                 strokeWidth="1"
                 strokeDasharray="2 2"
               />

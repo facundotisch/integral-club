@@ -722,7 +722,7 @@ export default function EvolutivoIndividualView({
                       style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }}
                     />
                   ) : (
-                    <span style={{ fontSize: '32px', fontWeight: 900, color: '#002B66' }}>
+                    <span style={{ fontSize: '32px', fontWeight: 900, color: '#2a3b60' }}>
                       {jugador.nombre?.[0] || 'R'}
                     </span>
                   )}
@@ -730,10 +730,10 @@ export default function EvolutivoIndividualView({
                 <div style={{
                   fontSize: '11px',
                   fontWeight: 900,
-                  color: tema === 'oscuro' ? '#38bdf8' : '#003882',
+                  color: tema === 'oscuro' ? '#38bdf8' : '#384e7f',
                   marginTop: '5px',
                   letterSpacing: '0.6px',
-                  background: tema === 'oscuro' ? 'rgba(0, 43, 102, 0.16)' : '#e0f2fe',
+                  background: tema === 'oscuro' ? 'rgba(42, 59, 96, 0.16)' : '#e0f2fe',
                   border: `1px solid ${tema === 'oscuro' ? 'rgba(56, 189, 248, 0.35)' : '#bae6fd'}`,
                   borderRadius: '4px',
                   padding: '2px 5px',

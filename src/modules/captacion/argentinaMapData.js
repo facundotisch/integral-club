@@ -227,7 +227,7 @@ export const PROVINCIAS_MAPA = [
 ];
 
 export const REGIONES_INFO = {
-  'Pampa & Centro': { color: '#002B66', label: 'Pampa & Centro' },
+  'Pampa & Centro': { color: '#2a3b60', label: 'Pampa & Centro' },
   'Mesopotamia': { color: '#10B981', label: 'Mesopotamia' },
   'NOA': { color: '#F59E0B', label: 'NOA (Noroeste)' },
   'NEA': { color: '#EC4899', label: 'NEA (Noreste)' },

@@ -27,7 +27,7 @@ const ESTADO_STYLES = {
   'Quedan fuera': { bg: 'rgba(239, 68, 68, 0.15)', text: '#EF4444', border: '#EF4444' },
   'Fuera': { bg: 'rgba(239, 68, 68, 0.15)', text: '#EF4444', border: '#EF4444' },
   'Descartado': { bg: 'rgba(239, 68, 68, 0.15)', text: '#EF4444', border: '#EF4444' },
-  'En seguimiento': { bg: 'rgba(0, 43, 102, 0.15)', text: '#002B66', border: '#002B66' },
+  'En seguimiento': { bg: 'rgba(42, 59, 96, 0.15)', text: '#2a3b60', border: '#2a3b60' },
   'Citado a prueba': { bg: 'rgba(139, 92, 246, 0.15)', text: '#8B5CF6', border: '#8B5CF6' }
 };
 
@@ -129,7 +129,7 @@ export default function ProspectoFichaModal({ prospecto, idFormatted, onClose, o
               Ficha Técnica de Evaluación
             </span>
             <span style={{
-              background: 'rgba(0, 43, 102, 0.1)',
+              background: 'rgba(42, 59, 96, 0.1)',
               color: 'var(--celeste)',
               padding: '2px 8px',
               borderRadius: '6px',
@@ -159,7 +159,7 @@ export default function ProspectoFichaModal({ prospecto, idFormatted, onClose, o
                 alignItems: 'center',
                 gap: '6px',
                 cursor: 'pointer',
-                boxShadow: '0 3px 10px rgba(0, 43, 102, 0.35)',
+                boxShadow: '0 3px 10px rgba(42, 59, 96, 0.35)',
                 transition: 'all 0.15s ease'
               }}
             >
@@ -299,13 +299,13 @@ export default function ProspectoFichaModal({ prospecto, idFormatted, onClose, o
 
             <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', alignItems: 'center' }}>
               <span style={{
-                background: 'rgba(0, 43, 102, 0.15)',
+                background: 'rgba(42, 59, 96, 0.15)',
                 color: 'var(--celeste)',
                 padding: '6px 14px',
                 borderRadius: '8px',
                 fontWeight: 800,
                 fontSize: '13px',
-                border: '1px solid rgba(0, 43, 102, 0.3)'
+                border: '1px solid rgba(42, 59, 96, 0.3)'
               }}>
                 {prospecto.posicion}
               </span>
@@ -467,10 +467,10 @@ export default function ProspectoFichaModal({ prospecto, idFormatted, onClose, o
                 <div>
                   <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', fontWeight: 700, marginBottom: '4px' }}>
                     <span style={{ color: 'var(--text)' }}>Aspecto Técnico:</span>
-                    <span style={{ color: '#002B66', fontWeight: 900 }}>{tecnico}/10</span>
+                    <span style={{ color: '#2a3b60', fontWeight: 900 }}>{tecnico}/10</span>
                   </div>
                   <div style={{ width: '100%', height: '8px', background: 'rgba(0,0,0,0.08)', borderRadius: '4px', overflow: 'hidden' }}>
-                    <div style={{ width: `${(tecnico / 10) * 100}%`, height: '100%', background: '#002B66', borderRadius: '4px' }} />
+                    <div style={{ width: `${(tecnico / 10) * 100}%`, height: '100%', background: '#2a3b60', borderRadius: '4px' }} />
                   </div>
                 </div>
 

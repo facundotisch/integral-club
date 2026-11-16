@@ -155,7 +155,7 @@ export default function ComposicionModule({ onVolverHub, tema = 'claro', onToggl
         labels: ['Masa Muscular', 'Masa Adiposa', 'Masa Ósea', 'Masa Residual', 'Masa Piel'],
         datasets: [{
           data: [m.pctMuscular, m.pctAdiposa, m.pctOsea, m.pctResidual, m.pctPiel],
-          backgroundColor: ['#002B66', '#f59e0b', '#64748b', '#6366f1', '#f97316'],
+          backgroundColor: ['#2a3b60', '#f59e0b', '#64748b', '#6366f1', '#f97316'],
           borderWidth: 2,
           borderColor: tema === 'oscuro' ? '#0f172a' : '#ffffff',
           hoverOffset: 6
@@ -211,8 +211,8 @@ export default function ComposicionModule({ onVolverHub, tema = 'claro', onToggl
           {
             label: 'Sumatoria 6 Pliegues (mm)',
             data: dataVals,
-            borderColor: '#002B66',
-            backgroundColor: 'rgba(0, 43, 102, 0.08)',
+            borderColor: '#2a3b60',
+            backgroundColor: 'rgba(42, 59, 96, 0.08)',
             fill: true,
             tension: 0.25,
             pointRadius: 5.5,
@@ -421,9 +421,9 @@ export default function ComposicionModule({ onVolverHub, tema = 'claro', onToggl
         datasets: [{
           label: `${jugadorActual?.nombreCompleto || 'Jugador'}`,
           data: [p.triceps, p.subescapular, p.supraespinal, p.abdominal, p.musloMedial, p.pantorrilla],
-          backgroundColor: 'rgba(0, 43, 102, 0.22)',
-          borderColor: '#002B66',
-          pointBackgroundColor: '#002B66',
+          backgroundColor: 'rgba(42, 59, 96, 0.22)',
+          borderColor: '#2a3b60',
+          pointBackgroundColor: '#2a3b60',
           pointBorderColor: '#fff',
           pointRadius: 4.5,
           borderWidth: 2.5
@@ -475,12 +475,12 @@ export default function ComposicionModule({ onVolverHub, tema = 'claro', onToggl
           {
             label: '% Masa Muscular',
             data: dataMusc,
-            borderColor: '#002B66',
-            backgroundColor: 'rgba(0, 43, 102, 0.12)',
+            borderColor: '#2a3b60',
+            backgroundColor: 'rgba(42, 59, 96, 0.12)',
             fill: true,
             tension: 0.25,
             pointRadius: 5,
-            pointBackgroundColor: '#002B66',
+            pointBackgroundColor: '#2a3b60',
             borderWidth: 2.5
           },
           {
@@ -759,9 +759,9 @@ export default function ComposicionModule({ onVolverHub, tema = 'claro', onToggl
                       textTransform: 'uppercase',
                       padding: '1px 6px',
                       borderRadius: '4px',
-                      background: 'rgba(0, 43, 102, 0.15)',
+                      background: 'rgba(42, 59, 96, 0.15)',
                       color: 'var(--celeste)',
-                      border: '1px solid rgba(0, 43, 102, 0.35)',
+                      border: '1px solid rgba(42, 59, 96, 0.35)',
                       letterSpacing: '0.4px'
                     }}>
                       {posicionJugador}

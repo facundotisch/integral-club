@@ -42,7 +42,7 @@ export const ESTADO_STYLES = {
   'Quedan fuera': { bg: 'rgba(239, 68, 68, 0.15)', text: '#EF4444', border: '#EF4444' },
   'Fuera': { bg: 'rgba(239, 68, 68, 0.15)', text: '#EF4444', border: '#EF4444' },
   'Descartado': { bg: 'rgba(239, 68, 68, 0.15)', text: '#EF4444', border: '#EF4444' },
-  'En seguimiento': { bg: 'rgba(0, 43, 102, 0.15)', text: '#002B66', border: '#002B66' },
+  'En seguimiento': { bg: 'rgba(42, 59, 96, 0.15)', text: '#2a3b60', border: '#2a3b60' },
   'Citado a prueba': { bg: 'rgba(139, 92, 246, 0.15)', text: '#8B5CF6', border: '#8B5CF6' },
   'En evaluación': { bg: 'rgba(139, 92, 246, 0.15)', text: '#8B5CF6', border: '#8B5CF6' }
 };
@@ -387,14 +387,14 @@ export default function CaptacionModule({ onVolverHub, tema = 'claro', onToggleT
                 </div>
               </div>
 
-              <div className="card" style={{ padding: '14px 18px', borderLeft: '4px solid #002B66' }}>
+              <div className="card" style={{ padding: '14px 18px', borderLeft: '4px solid #2a3b60' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                   <span style={{ fontSize: '10.5px', fontWeight: 800, textTransform: 'uppercase', color: 'var(--muted)', letterSpacing: '0.5px' }}>
                     EN SEGUIMIENTO
                   </span>
-                  <Eye size={17} color="#002B66" />
+                  <Eye size={17} color="#2a3b60" />
                 </div>
-                <div style={{ fontSize: '24px', fontWeight: 900, color: '#002B66', marginTop: '4px', fontFamily: 'var(--font-head)' }}>
+                <div style={{ fontSize: '24px', fontWeight: 900, color: '#2a3b60', marginTop: '4px', fontFamily: 'var(--font-head)' }}>
                   {kpis.enSeguimiento}
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function CaptacionModule({ onVolverHub, tema = 'claro', onToggleT
                       borderRadius: '10px',
                       border: 'none',
                       cursor: 'pointer',
-                      boxShadow: '0 3px 10px rgba(0, 43, 102, 0.35)',
+                      boxShadow: '0 3px 10px rgba(42, 59, 96, 0.35)',
                       transition: 'all 0.15s ease'
                     }}
                   >
@@ -648,7 +648,7 @@ export default function CaptacionModule({ onVolverHub, tema = 'claro', onToggleT
                                   borderRadius: '10px',
                                   fontSize: '13.5px',
                                   cursor: 'pointer',
-                                  boxShadow: '0 3px 10px rgba(0, 43, 102, 0.35)'
+                                  boxShadow: '0 3px 10px rgba(42, 59, 96, 0.35)'
                                 }}
                               >
                                 + Cargar Primer Prospecto
@@ -682,7 +682,7 @@ export default function CaptacionModule({ onVolverHub, tema = 'claro', onToggleT
                                 fontSize: '11.5px', 
                                 fontWeight: 800, 
                                 color: 'var(--celeste)',
-                                background: 'rgba(0, 43, 102, 0.08)',
+                                background: 'rgba(42, 59, 96, 0.08)',
                                 padding: '2px 6px',
                                 borderRadius: '4px'
                               }}>
@@ -737,7 +737,7 @@ export default function CaptacionModule({ onVolverHub, tema = 'claro', onToggleT
                             {/* 5. POSICIÓN (Exactas 7 posiciones) */}
                             <td style={{ padding: '11px 12px' }}>
                               <span style={{ 
-                                background: 'rgba(0, 43, 102, 0.1)', 
+                                background: 'rgba(42, 59, 96, 0.1)', 
                                 color: 'var(--celeste)', 
                                 padding: '3px 7px', 
                                 borderRadius: '6px',
@@ -843,7 +843,7 @@ export default function CaptacionModule({ onVolverHub, tema = 'claro', onToggleT
                                     alignItems: 'center',
                                     gap: '5px',
                                     cursor: 'pointer',
-                                    boxShadow: '0 2px 6px rgba(0, 43, 102, 0.25)'
+                                    boxShadow: '0 2px 6px rgba(42, 59, 96, 0.25)'
                                   }}
                                 >
                                   <Edit3 size={13} color="#ffffff" />
