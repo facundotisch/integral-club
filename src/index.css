@@ -20,7 +20,7 @@
   --blue-text: #002B66;
 
   /* Modo Blanco Institucional (Por Defecto / Blanco First) */
-  --bg-gradient: linear-gradient(165deg, #003882 0%, #002B66 100%) fixed;
+  --bg-gradient: linear-gradient(165deg, #2a3b60 0%, #2a3b60 100%) fixed;
   --topbar-bg: #ffffff;
   --topbar-text: #0f172a;
   --topbar-border: #002B66;
